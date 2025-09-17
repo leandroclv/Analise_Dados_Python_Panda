@@ -1,13 +1,13 @@
 {
     "receitas": [
         {
-            "titulo": "Bolo de Chocolate",
+            "titulo": "Bolo de chocolate",
             "tempo_preparo": "45 minutos",
             "porcoes": 8,
             "ingredientes": [
                 {
-                    "ingrediente": "Farinha de Trigo",
-                    "quantidade": "2 xícaras"
+                    "ingrediente": "Farinha de trigo",
+                    "Quantidade": "2 xícaras"
                 },
                 {
                     "ingrediente": "Açúcar",
@@ -18,11 +18,11 @@
                     "quantidade": "3 xícaras"
                 },
                 {
-                    "ingrediente": "Leite",
+                    "ingrediente": "leite",
                     "quantidade": "1 xícara"
                 },
                 {
-                    "ingrediente": "Manteiga",
+                    "ingrediente": "manteiga",
                     "quantidade": "1/2 xícara"
                 }
             ]
@@ -41,11 +41,11 @@
                     "quantidade": "1 xícara"
                 },
                 {
-                    "ingrediente": "Queijo parmesão",
+                    "ingrediente": "Queijo Parmesão",
                     "quantidade": "1/2 xícara"
                 },
                 {
-                    "ingrediente": "Molho caesar",
+                    "ingrediente": "Molho Caesar",
                     "quantidade": "1/4 xícara"
                 }
             ]
@@ -60,7 +60,7 @@
                     "quantidade": "200g"
                 },
                 {
-                    "ingrediente": "Manjericão fresco",
+                    "ingrediente": "Mangericão fresco",
                     "quantidade": "1/2 xícara"
                 },
                 {
@@ -72,7 +72,7 @@
                     "quantidade": "1/4 xícara"
                 },
                 {
-                    "ingrediente": "Queijo parmesão",
+                    "ingrediente": "Queijo Parmesão",
                     "quantidade": "1/4 xícara"
                 }
             ]
