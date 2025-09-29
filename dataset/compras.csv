@@ -1,0 +1,2001 @@
+data;id_compra;loja;vendedor;produto;cliente_nome;cliente_genero;forma_pagamaneto
+2024-09-29 04:20:25.700413;0;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Martin Lamkin;l;p
+2024-09-29 08:46:25.029216;1;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Joe Sheets;l;p
+2024-09-29 11:28:28.971841;2;São Paulo;Ana Oliveira;Tablet Apple Ipad;Paula Miller;l;p
+2024-09-29 11:36:34.312800;3;São Paulo;Lucas Pereira;Smartwatch Garmin;Velma Howell;l;p
+2024-09-30 08:58:31.200497;4;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Chris Wise;l;p
+2024-09-30 09:06:33.898142;5;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Randy Silvestri;l;p
+2024-09-30 11:47:27.978231;6;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Nelson Stephens;l;p
+2024-09-30 11:56:34.188669;7;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Susan Wenning;l;p
+2024-09-30 13:28:33.872731;8;São Paulo;Ana Oliveira;Tablet Apple Ipad;Doris Edmonds;l;p
+2024-09-30 13:45:29.974891;9;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Mattie Gervasio;l;p
+2024-10-01 10:08:23.992369;10;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Robert Carter;l;p
+2024-10-01 10:12:30.127883;11;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Jeanne Davenport;l;p
+2024-10-01 10:38:32.494254;12;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Cynthia Smith;l;p
+2024-10-01 12:15:26.602741;13;São Paulo;Ana Oliveira;Fone de ouvido Sony;Allen Sawicki;l;p
+2024-10-02 05:49:24.303130;14;Florianópolis;Tiago Lima;Smartwatch Garmin;Karen Westendorf;l;p
+2024-10-02 08:47:31.205020;15;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Phyllis Wiseman;l;p
+2024-10-02 11:28:23.807391;16;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Katherine Dueno;l;p
+2024-10-02 12:07:32.607692;17;São Paulo;Ana Oliveira;Tablet Apple Ipad;Javier Hoffman;l;p
+2024-10-02 13:26:23.804390;18;Florianópolis;Tiago Lima;Fone de ouvido Sony;Felicita Patterson;l;p
+2024-10-03 03:47:32.593251;19;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Alex Paradise;l;p
+2024-10-03 05:59:25.984264;20;São Paulo;Lucas Pereira;Fone de ouvido Sony;Anthony Martin;l;p
+2024-10-04 06:07:32.139508;21;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Pamala Stine;l;p
+2024-10-04 07:22:25.153342;22;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Martha Morgan;l;p
+2024-10-04 11:45:25.492595;23;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Donna Colanero;l;p
+2024-10-04 13:27:34.415254;24;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Louis Stride;l;p
+2024-10-04 14:02:33.063295;25;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Frank Poole;l;p
+2024-10-05 03:46:31.311576;26;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Lourdes Bryan;l;p
+2024-10-05 06:11:28.664955;27;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Steve Wyatt;l;p
+2024-10-05 06:29:27.477432;28;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Stephen Chisholm;l;p
+2024-10-05 07:13:28.506692;29;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Eleanor Henrick;l;p
+2024-10-05 11:09:27.562739;30;Florianópolis;Tiago Lima;Fone de ouvido Sony;Diane Mock;l;p
+2024-10-05 11:37:27.736482;31;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Brenda Rivera;l;p
+2024-10-05 11:50:30.800436;32;São Paulo;Ana Oliveira;Fone de ouvido Sony;Mary Smith;l;p
+2024-10-06 06:21:28.890094;33;São Paulo;Lucas Pereira;Fone de ouvido Sony;Belinda Allen;l;p
+2024-10-06 08:34:33.762144;34;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Connie Hall;l;p
+2024-10-07 04:23:28.455586;35;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Shery Dettloff;l;p
+2024-10-07 10:07:27.622842;36;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Jerry Lightle;l;p
+2024-10-07 12:26:28.196866;37;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Chris Smith;l;p
+2024-10-08 04:48:27.780065;38;São Paulo;Ana Oliveira;Tablet Apple Ipad;Beatrice Klingbeil;l;p
+2024-10-08 07:20:28.312337;39;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Wanda Thorell;l;p
+2024-10-08 07:58:26.616221;40;São Paulo;Ana Oliveira;Fone de ouvido Sony;Dale Jones;l;p
+2024-10-08 09:21:30.003501;41;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Jesus Anderson;l;p
+2024-10-08 11:29:33.955693;42;São Paulo;Ana Oliveira;Smartwatch Garmin;Janice Markowitz;l;p
+2024-10-08 12:53:23.755475;43;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Larry Chandler;l;p
+2024-10-09 03:48:31.210454;44;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Eli Phelps;l;p
+2024-10-09 04:54:32.970680;45;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Sarah Kleck;l;p
+2024-10-09 06:52:27.480223;46;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Virginia Bunting;l;p
+2024-10-09 09:42:28.645631;47;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Carole Garland;l;p
+2024-10-09 10:59:23.689735;48;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Leopoldo Weaver;l;p
+2024-10-09 13:09:32.088403;49;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Jay Williams;l;p
+2024-10-10 03:29:28.497901;50;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Marian Milne;l;p
+2024-10-10 12:21:27.883432;51;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Becky Daniels;l;p
+2024-10-10 13:30:28.446640;52;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Eli Anderson;l;p
+2024-10-11 05:03:31.804144;53;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Grover Key;l;p
+2024-10-11 05:08:31.918987;54;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Anthony Barrera;l;p
+2024-10-11 08:01:31.246558;55;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Dorothea Daniels;l;p
+2024-10-11 10:10:29.993365;56;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Sharon Peralta;l;p
+2024-10-12 06:32:32.696297;57;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Melissa Holtzlander;l;p
+2024-10-12 12:34:30.738582;58;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jennifer Kunka;l;p
+2024-10-12 14:07:30.409618;59;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Diane Hussey;l;p
+2024-10-13 06:10:27.407582;60;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Kendra Martinez;l;p
+2024-10-13 06:49:34.651889;61;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Richard Moore;l;p
+2024-10-13 07:43:28.309432;62;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Jonathan Olinger;l;p
+2024-10-14 04:28:23.918288;63;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Beatrice Miller;l;p
+2024-10-14 06:09:28.501547;64;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jack Jeter;l;p
+2024-10-14 08:31:26.413544;65;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Jo Wood;l;p
+2024-10-15 06:57:28.833712;66;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Louise Caul;l;p
+2024-10-15 07:35:30.802626;67;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Terry Stuber;l;p
+2024-10-15 07:47:25.780525;68;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Andrea Lester;l;p
+2024-10-15 09:07:32.729433;69;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Joan Jacobs;l;p
+2024-10-15 12:17:29.764791;70;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Brandy Pagan;l;p
+2024-10-16 03:31:27.301599;71;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Bessie Franks;l;p
+2024-10-16 04:07:26.305476;72;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Debbie Smith;l;p
+2024-10-16 04:41:31.309540;73;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Ernest Bautista;l;p
+2024-10-16 11:30:27.931692;74;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Mathew Smith;l;p
+2024-10-17 07:15:29.767546;75;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Sharron Mcgrath;l;p
+2024-10-17 07:28:28.558877;76;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Adam Pack;l;p
+2024-10-17 13:28:31.517982;77;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Frank Gardner;l;p
+2024-10-18 03:53:24.618393;78;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Belinda Crippen;l;p
+2024-10-18 10:43:28.545673;79;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Christy Herron;l;p
+2024-10-18 12:52:28.646727;80;Florianópolis;Tiago Lima;Smartwatch Garmin;Timothy Avery;l;p
+2024-10-19 03:50:26.608406;81;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Michael Ballard;l;p
+2024-10-19 04:10:32.089876;82;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Martina Coats;l;p
+2024-10-19 05:21:32.625347;83;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Chastity Ruth;l;p
+2024-10-19 08:57:32.728535;84;Florianópolis;Tiago Lima;Fone de ouvido Sony;Carol Ames;l;p
+2024-10-19 13:28:23.469327;85;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Harry Mcdougal;l;p
+2024-10-19 13:29:25.669859;86;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Michael Turner;l;p
+2024-10-19 13:47:31.389602;87;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Sharon Ramos;l;p
+2024-10-20 04:01:28.551548;88;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Carmen Hernandez;l;p
+2024-10-20 04:27:32.109886;89;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Zane March;l;p
+2024-10-20 04:28:33.820338;90;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Nathan Rivet;l;p
+2024-10-20 08:10:24.431798;91;São Paulo;Ana Oliveira;Tablet Apple Ipad;Brenda Stalcup;l;p
+2024-10-20 10:11:32.407731;92;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Joshua Oneill;l;p
+2024-10-20 13:35:24.612548;93;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Lydia Hightower;l;p
+2024-10-20 14:21:23.102311;94;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Nancy Samford;l;p
+2024-10-20 14:22:27.475989;95;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Patrick Gooden;l;p
+2024-10-21 06:27:27.606384;96;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Joseph Jerome;l;p
+2024-10-21 07:06:29.724933;97;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;James Combee;l;p
+2024-10-21 07:44:30.312451;98;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Karen Jess;l;p
+2024-10-21 08:39:33.138134;99;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Jacob Hernandez;l;p
+2024-10-21 09:23:23.338493;100;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Patricia Harwood;l;p
+2024-10-21 09:24:27.005395;101;Florianópolis;Tiago Lima;Tablet Apple Ipad;Cheri Harris;l;p
+2024-10-21 12:06:33.745183;102;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Kimberly Garces;l;p
+2024-10-21 13:16:32.896125;103;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Linda Muscara;l;p
+2024-10-22 03:46:32.565567;104;Florianópolis;Gabriela Santos;Smartwatch Garmin;Jeffrey Jones;l;p
+2024-10-22 09:23:32.137929;105;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Bryan Flowers;l;p
+2024-10-22 13:23:28.546511;106;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Glenn Solis;l;p
+2024-10-22 14:07:23.798326;107;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Christina Cannady;l;p
+2024-10-23 06:32:29.362500;108;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Paul Butler;l;p
+2024-10-23 08:55:23.941533;109;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Kevin Dancer;l;p
+2024-10-23 09:08:26.412341;110;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Kay Cline;l;p
+2024-10-23 10:16:31.421552;111;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Katherine Busi;l;p
+2024-10-23 10:40:32.968108;112;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Brendan Robertson;l;p
+2024-10-24 08:24:32.627719;113;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;David Skousen;l;p
+2024-10-24 08:29:27.178835;114;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Jean Ebert;l;p
+2024-10-24 08:53:24.959601;115;São Paulo;Lucas Pereira;Tablet Apple Ipad;Eric Bax;l;p
+2024-10-24 09:51:29.370877;116;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Josephine Gallegas;l;p
+2024-10-24 13:07:25.292708;117;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Kathleen Ballard;l;p
+2024-10-25 07:22:29.181859;118;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Ronald Cope;l;p
+2024-10-25 08:00:31.312471;119;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Glen Whipple;l;p
+2024-10-25 08:10:30.947739;120;São Paulo;Ana Oliveira;Fone de ouvido Sony;Ralph Percy;l;p
+2024-10-25 11:32:32.237853;121;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;John Rubens;l;p
+2024-10-25 12:00:23.150192;122;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Lily Delisi;l;p
+2024-10-25 13:48:27.322021;123;São Paulo;Lucas Pereira;Tablet Apple Ipad;Alycia Rountree;l;p
+2024-10-26 04:04:26.600893;124;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Phyllis Hoskins;l;p
+2024-10-26 07:25:24.283978;125;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Ray Beasley;l;p
+2024-10-26 07:58:26.261702;126;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Barbara Glenn;l;p
+2024-10-26 09:35:32.257209;127;São Paulo;Lucas Pereira;Fone de ouvido Sony;Richard Lawrence;l;p
+2024-10-26 12:28:25.446984;128;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Amber Vinson;l;p
+2024-10-26 13:02:23.887377;129;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Aurora Reyolds;l;p
+2024-10-26 14:08:30.960673;130;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Armando Webster;l;p
+2024-10-27 04:13:34.321483;131;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Laurie Smith;l;p
+2024-10-27 05:42:24.940922;132;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Darryl Stump;l;p
+2024-10-27 07:32:23.754887;133;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Ralph Sellers;l;p
+2024-10-27 08:15:26.294912;134;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Clyde Levine;l;p
+2024-10-27 08:20:23.916245;135;São Paulo;Lucas Pereira;Tablet Apple Ipad;Carolyn Hardy;l;p
+2024-10-27 09:20:29.623819;136;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Robert Tommie;l;p
+2024-10-27 09:25:27.308573;137;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Thomas White;l;p
+2024-10-27 10:14:32.740075;138;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;David Grove;l;p
+2024-10-27 10:30:32.565880;139;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Javier Swiger;l;p
+2024-10-27 10:59:33.723043;140;Florianópolis;Tiago Lima;Notebook Dell Inspiron;David Weyandt;l;p
+2024-10-27 11:02:33.562938;141;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Jeffrey Hall;l;p
+2024-10-27 13:35:33.292011;142;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Jeffrey Cheatham;l;p
+2024-10-28 08:14:31.896646;143;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Ethel Saunders;l;p
+2024-10-28 08:38:31.145260;144;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Jose Falco;l;p
+2024-10-28 09:37:32.925892;145;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Tyler Chen;l;p
+2024-10-28 11:56:28.893037;146;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Manuel Lopez;l;p
+2024-10-28 14:11:28.497609;147;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;John Reeves;l;p
+2024-10-29 04:06:26.223042;148;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Evelyn Adams;l;p
+2024-10-29 07:15:24.504063;149;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Helen Bumgarner;l;p
+2024-10-29 12:04:34.219038;150;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Donald Hicks;l;p
+2024-10-29 12:14:30.272815;151;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;James Gibson;l;p
+2024-10-29 13:41:24.008213;152;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Matthew Aponte;l;p
+2024-10-29 14:07:26.423458;153;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Sandra Delgado;l;p
+2024-10-30 04:52:24.220168;154;Florianópolis;Gabriela Santos;Tablet Apple Ipad;William Harrison;l;p
+2024-10-30 09:59:27.931924;155;Florianópolis;Tiago Lima;Tablet Apple Ipad;Gussie Reed;l;p
+2024-10-30 12:52:25.528925;156;Florianópolis;Tiago Lima;Fone de ouvido Sony;Melvin Dunlow;l;p
+2024-10-30 13:19:24.501692;157;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Thuy Bull;l;p
+2024-10-30 13:26:23.463826;158;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Sammie Lewis;l;p
+2024-10-31 08:02:23.264761;159;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Benny Watt;l;p
+2024-10-31 08:15:31.071792;160;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Alexander Rushton;l;p
+2024-10-31 11:32:30.999270;161;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Dorothy Petersen;l;p
+2024-10-31 13:55:28.796827;162;São Paulo;Lucas Pereira;Smartwatch Garmin;Ryan Gorton;l;p
+2024-11-01 04:34:33.062875;163;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Meredith Allen;l;p
+2024-11-01 11:06:29.701109;164;São Paulo;Ana Oliveira;Smartwatch Garmin;Jane Heasley;l;p
+2024-11-01 13:14:32.139060;165;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Oscar Marquez;l;p
+2024-11-02 04:36:24.611899;166;Florianópolis;Tiago Lima;Smartwatch Garmin;Randall Harrison;l;p
+2024-11-02 05:56:24.349251;167;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Shelli Roberts;l;p
+2024-11-02 08:14:30.986080;168;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Robert Butcher;l;p
+2024-11-02 08:43:28.035608;169;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Amanda Allen;l;p
+2024-11-02 09:40:29.685240;170;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Fred Britt;l;p
+2024-11-02 11:13:33.414134;171;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Thomas Pritchett;l;p
+2024-11-02 12:32:31.659881;172;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Herman Marks;l;p
+2024-11-02 12:33:32.491968;173;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Lucille Clevenger;l;p
+2024-11-03 03:33:25.588849;174;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Denise Zaller;l;p
+2024-11-03 03:46:26.244368;175;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Nancy Morton;l;p
+2024-11-03 04:45:23.758402;176;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;David Jett;l;p
+2024-11-03 07:05:31.206361;177;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Rodney Woodbury;l;p
+2024-11-03 07:42:25.721631;178;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Christopher Phu;l;p
+2024-11-03 07:53:33.252566;179;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Stella Blair;l;p
+2024-11-03 09:50:24.921854;180;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Shirley Prochaska;l;p
+2024-11-03 10:19:28.824487;181;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Brittany Haigh;l;p
+2024-11-03 10:35:31.652754;182;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Tony Sanders;l;p
+2024-11-03 12:01:23.643533;183;São Paulo;Lucas Pereira;Fone de ouvido Sony;Brenda Oliveri;l;p
+2024-11-04 04:15:23.864268;184;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Kenneth Fry;l;p
+2024-11-04 06:36:26.701816;185;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Guadalupe Bail;l;p
+2024-11-04 07:06:31.419469;186;Florianópolis;Tiago Lima;Tablet Apple Ipad;Fred Mccarthy;l;p
+2024-11-04 07:59:28.925667;187;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Thomas Alvarez;l;p
+2024-11-04 08:13:30.129542;188;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Betty Fugitt;l;p
+2024-11-04 10:53:25.785240;189;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Phyllis Carskadon;l;p
+2024-11-04 13:32:33.572429;190;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Debra Davidson;l;p
+2024-11-04 14:28:26.059424;191;Florianópolis;Tiago Lima;Fone de ouvido Sony;Barbara Gaynor;l;p
+2024-11-05 05:09:23.474550;192;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Mark Wilds;l;p
+2024-11-05 10:59:33.138399;193;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Elaine Reliford;l;p
+2024-11-05 11:44:28.214477;194;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Maria Light;l;p
+2024-11-05 12:14:24.610375;195;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Brittney Pulliam;l;p
+2024-11-06 04:04:30.272984;196;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Sondra Thomas;l;p
+2024-11-06 05:41:27.858220;197;Florianópolis;Tiago Lima;Fone de ouvido Sony;Donald Heaney;l;p
+2024-11-06 06:57:34.761418;198;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Stephanie Herrera;l;p
+2024-11-06 07:08:27.478972;199;Florianópolis;Tiago Lima;Smartwatch Garmin;Ruth Davis;l;p
+2024-11-06 12:28:28.596394;200;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Don Durham;l;p
+2024-11-06 13:09:34.177788;201;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Lori Hockenberry;l;p
+2024-11-07 04:15:25.755941;202;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Frank Evans;l;p
+2024-11-07 05:28:27.048715;203;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Eugene Hutton;l;p
+2024-11-07 10:54:28.029307;204;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Marina Kerner;l;p
+2024-11-07 11:52:31.361645;205;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Madeleine Hardy;l;p
+2024-11-07 13:13:32.188525;206;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Joshua Ronson;l;p
+2024-11-08 05:32:24.029706;207;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Myron Huseth;l;p
+2024-11-08 06:05:32.225124;208;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Inge Kuntz;l;p
+2024-11-08 06:34:29.695412;209;São Paulo;Lucas Pereira;Fone de ouvido Sony;Shari Smith;l;p
+2024-11-08 10:38:24.071555;210;Florianópolis;Tiago Lima;Fone de ouvido Sony;Lewis Moran;l;p
+2024-11-09 03:56:34.279484;211;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Josephine Poe;l;p
+2024-11-09 05:17:27.650059;212;São Paulo;Lucas Pereira;Tablet Apple Ipad;Kira Miller;l;p
+2024-11-09 06:27:30.003680;213;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Robert Smith;l;p
+2024-11-09 07:15:27.269920;214;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Leland Woolfolk;l;p
+2024-11-09 08:31:33.063655;215;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;James Stickel;l;p
+2024-11-09 10:55:32.224483;216;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Mary Horn;l;p
+2024-11-09 11:09:31.355027;217;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Connie Willoughby;l;p
+2024-11-09 11:50:34.700619;218;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Delilah Jones;l;p
+2024-11-10 10:27:31.661384;219;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Francina Howell;l;p
+2024-11-10 12:10:31.278718;220;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Maggie Combs;l;p
+2024-11-10 12:13:27.877528;221;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Jennifer Halley;l;p
+2024-11-10 12:32:34.632295;222;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Elizabeth Allard;l;p
+2024-11-11 04:28:32.845379;223;São Paulo;Ana Oliveira;Smartwatch Garmin;Eugenia Morris;l;p
+2024-11-11 04:44:32.042519;224;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Pearl Moseley;l;p
+2024-11-11 07:46:27.061452;225;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Dennis Vassell;l;p
+2024-11-11 07:46:27.244396;226;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Elizabeth Thon;l;p
+2024-11-11 08:28:22.882243;227;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Amanda Munns;feminino;pix
+2024-11-11 10:13:26.296273;228;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Ronald Freeman;l;p
+2024-11-11 12:15:28.974740;229;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Sarah Smith;l;p
+2024-11-11 13:16:25.657979;230;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Janet Stewart;l;p
+2024-11-12 06:34:26.218325;231;Florianópolis;Gabriela Santos;Smartwatch Garmin;Natalie Escamilla;l;p
+2024-11-12 06:47:24.501581;232;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Margaret Smith;l;p
+2024-11-12 07:05:33.416238;233;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Ryan Evans;l;p
+2024-11-12 07:35:33.431359;234;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Jean Houghton;l;p
+2024-11-12 08:43:29.541374;235;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Randy Huff;l;p
+2024-11-12 09:28:23.992565;236;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Jerry Carlson;l;p
+2024-11-12 11:43:33.551631;237;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Ricky Satterfield;l;p
+2024-11-12 11:45:29.180119;238;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Gerald Gatlin;l;p
+2024-11-12 12:50:25.143643;239;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Dena Woods;l;p
+2024-11-13 07:43:28.794678;240;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Allan Beasley;l;p
+2024-11-13 08:33:24.415673;241;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Troy Pemberton;l;p
+2024-11-13 08:54:26.296636;242;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Jane Richey;l;p
+2024-11-13 10:22:33.417449;243;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Bryan Nitta;l;p
+2024-11-13 12:06:32.493254;244;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Dorothy Munoz;l;p
+2024-11-14 05:40:34.624256;245;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Krista Branch;l;p
+2024-11-14 08:16:32.926712;246;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Craig Motte;l;p
+2024-11-14 10:09:28.647303;247;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Earl Reiser;l;p
+2024-11-14 10:39:23.869001;248;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Grace Bjorkman;l;p
+2024-11-14 12:58:26.426257;249;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Christian Feldhaus;l;p
+2024-11-15 06:32:29.600265;250;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Maria Lipford;l;p
+2024-11-15 06:51:24.508152;251;São Paulo;Ana Oliveira;Smartwatch Garmin;John Warwick;l;p
+2024-11-15 09:48:27.332914;252;São Paulo;Ana Oliveira;Fone de ouvido Sony;Kimberly Mccracken;l;p
+2024-11-15 12:24:32.403721;253;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Thomas Ward;l;p
+2024-11-16 03:58:33.295092;254;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Bob Keller;l;p
+2024-11-16 05:10:30.486809;255;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Gladys Hilbert;l;p
+2024-11-16 05:49:33.756380;256;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;William Beecher;l;p
+2024-11-17 04:46:27.528895;257;Florianópolis;Tiago Lima;Smartwatch Garmin;Vesta Thomasson;l;p
+2024-11-17 04:52:33.872620;258;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Michael Anderson;l;p
+2024-11-17 05:28:24.440306;259;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Edwin Dux;l;p
+2024-11-17 08:47:26.305846;260;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Joyce Spasiano;l;p
+2024-11-17 11:03:28.796155;261;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;James Burton;l;p
+2024-11-17 12:12:26.962344;262;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Andrea Myott;l;p
+2024-11-18 03:54:23.479594;263;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Thomas Nero;l;p
+2024-11-18 06:32:33.344372;264;Florianópolis;Tiago Lima;Fone de ouvido Sony;Carol Gettinger;l;p
+2024-11-18 08:13:25.445946;265;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Calvin John;l;p
+2024-11-18 08:48:27.534463;266;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Patricia Lopeman;l;p
+2024-11-18 09:12:24.072757;267;Florianópolis;Gabriela Santos;Smartwatch Garmin;John Lantz;l;p
+2024-11-18 10:07:25.292190;268;São Paulo;Ana Oliveira;Fone de ouvido Sony;Martha Cameron;l;p
+2024-11-18 12:44:34.630484;269;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Hilda Hill;l;p
+2024-11-18 13:46:31.645384;270;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Daniel Burnette;l;p
+2024-11-19 05:49:24.050152;271;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Lawrence Bates;l;p
+2024-11-19 06:45:29.248748;272;São Paulo;Lucas Pereira;Fone de ouvido Sony;Walter Connolly;l;p
+2024-11-19 07:32:27.075737;273;São Paulo;Lucas Pereira;Fone de ouvido Sony;Lawrence Stone;l;p
+2024-11-19 10:00:27.883038;274;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Philip Medina;l;p
+2024-11-19 12:08:26.163006;275;São Paulo;Ana Oliveira;Smartwatch Garmin;Brandon Rice;l;p
+2024-11-19 14:05:28.403114;276;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Altagracia Macneil;l;p
+2024-11-20 09:04:27.408946;277;São Paulo;Lucas Pereira;Tablet Apple Ipad;Elizabeth Sharpe;l;p
+2024-11-20 09:20:29.362978;278;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;John Foster;l;p
+2024-11-20 09:44:33.413799;279;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Kevin Ortega;l;p
+2024-11-20 10:18:34.058116;280;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Matthew Eckhardt;l;p
+2024-11-20 11:36:34.309011;281;São Paulo;Lucas Pereira;Fone de ouvido Sony;Barbara Manning;l;p
+2024-11-20 12:27:25.141097;282;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;William Lombardo;l;p
+2024-11-20 13:33:32.234203;283;Florianópolis;Tiago Lima;Fone de ouvido Sony;Samuel Hackworth;l;p
+2024-11-20 14:24:34.465692;284;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Jessica Williamson;l;p
+2024-11-21 03:43:32.608012;285;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Jerry Heron;l;p
+2024-11-21 07:36:33.375242;286;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Bernice Robertson;l;p
+2024-11-21 11:04:27.257406;287;Florianópolis;Tiago Lima;Smartwatch Garmin;Mattie Mccoy;l;p
+2024-11-21 14:01:27.406548;288;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Tamara Smith;l;p
+2024-11-22 03:44:32.284064;289;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Adela Larson;l;p
+2024-11-22 06:26:29.542232;290;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Jessie Blackmon;l;p
+2024-11-23 05:48:24.907519;291;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Edward Burwell;l;p
+2024-11-23 07:51:24.072106;292;Florianópolis;Tiago Lima;Smartwatch Garmin;Georgia Taylor;l;p
+2024-11-23 11:20:26.282498;293;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Emily Arce;l;p
+2024-11-23 12:17:32.173968;294;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Dorothy Fraser;l;p
+2024-11-23 14:06:29.050075;295;Florianópolis;Tiago Lima;Tablet Apple Ipad;Tommy Burton;l;p
+2024-11-24 04:48:23.806008;296;São Paulo;Lucas Pereira;Tablet Apple Ipad;Harvey Ridley;l;p
+2024-11-24 05:49:25.650761;297;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Horace Shunk;l;p
+2024-11-24 10:37:31.192470;298;São Paulo;Ana Oliveira;Tablet Apple Ipad;John Stacey;l;p
+2024-11-24 11:06:33.685595;299;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Ann Christiansen;l;p
+2024-11-24 12:37:30.043904;300;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Robert Franck;l;p
+2024-11-24 12:43:30.946462;301;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Chad Joiner;l;p
+2024-11-24 14:06:25.613067;302;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Deborah Grimm;l;p
+2024-11-24 14:07:30.852190;303;São Paulo;Ana Oliveira;Fone de ouvido Sony;Karen Bardo;l;p
+2024-11-25 06:34:24.071374;304;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Christopher Freeman;l;p
+2024-11-25 14:13:34.667003;305;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Vella Strong;l;p
+2024-11-26 03:48:30.416852;306;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Jesse Nason;l;p
+2024-11-26 05:58:23.455662;307;Florianópolis;Tiago Lima;Fone de ouvido Sony;Grace Varela;l;p
+2024-11-26 06:03:25.987214;308;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Grace Dorsette;l;p
+2024-11-26 10:15:28.822249;309;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Cecelia Couch;l;p
+2024-11-26 13:13:24.811010;310;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Homer Ramseur;l;p
+2024-11-26 13:38:29.040826;311;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Wanda Johnson;l;p
+2024-11-27 07:30:28.745327;312;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Dennis Pouncil;l;p
+2024-11-27 09:16:32.591741;313;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Elaine Kim;l;p
+2024-11-27 09:45:31.873328;314;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Charles Stewart;l;p
+2024-11-27 10:27:32.673216;315;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;George Williams;l;p
+2024-11-28 03:45:31.717470;316;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Annette Lopez;l;p
+2024-11-28 04:44:30.988501;317;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Wayne Glover;l;p
+2024-11-28 05:28:23.500270;318;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Brett Carvin;l;p
+2024-11-28 06:40:26.238235;319;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Ann Drury;l;p
+2024-11-28 07:59:30.788637;320;São Paulo;Ana Oliveira;Fone de ouvido Sony;Charmaine Robinson;l;p
+2024-11-28 09:42:29.962006;321;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Paul Stinnett;l;p
+2024-11-28 09:47:26.732080;322;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Rayna Alvarez;l;p
+2024-11-28 10:38:28.693810;323;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Rachel Harrigan;l;p
+2024-11-28 10:39:25.674271;324;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Michael Miller;l;p
+2024-11-28 13:35:28.653725;325;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Laura Jordan;l;p
+2024-11-29 04:01:32.606285;326;Florianópolis;Tiago Lima;Fone de ouvido Sony;Orlando Harms;l;p
+2024-11-29 04:03:29.967555;327;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Jeanie Erwin;l;p
+2024-11-29 06:15:27.075959;328;São Paulo;Ana Oliveira;Fone de ouvido Sony;John Blunt;l;p
+2024-11-29 07:47:33.597256;329;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Diane Edgell;l;p
+2024-11-29 12:24:33.481258;330;São Paulo;Ana Oliveira;Tablet Apple Ipad;Lisa Nevarez;l;p
+2024-11-29 12:31:24.026297;331;São Paulo;Ana Oliveira;Fone de ouvido Sony;Helen Ellsworth;l;p
+2024-11-29 13:47:30.259846;332;Florianópolis;Tiago Lima;Smartwatch Garmin;Carl Rodriguez;l;p
+2024-11-30 04:59:33.829971;333;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Christine Johnston;l;p
+2024-11-30 12:18:30.716671;334;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Lisa Crose;l;p
+2024-11-30 12:30:34.220226;335;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Wanda Conner;l;p
+2024-11-30 13:50:27.884116;336;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Natalie Boyd;l;p
+2024-12-01 06:20:29.247910;337;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Heidi Davis;l;p
+2024-12-01 08:12:33.038283;338;São Paulo;Lucas Pereira;Tablet Apple Ipad;Joe Syrett;l;p
+2024-12-01 10:33:32.088007;339;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Perry Franklin;l;p
+2024-12-01 12:19:24.685023;340;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Anthony Jones;l;p
+2024-12-01 13:59:25.611332;341;São Paulo;Lucas Pereira;Fone de ouvido Sony;Melanie Perry;l;p
+2024-12-02 04:38:31.666278;342;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Reggie Pizzo;l;p
+2024-12-02 09:17:26.094783;343;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Jessie Ray;l;p
+2024-12-02 10:26:34.144130;344;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Leonard Evans;l;p
+2024-12-03 07:06:27.326144;345;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Kyle Thomas;l;p
+2024-12-03 10:39:34.665137;346;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Don Sanders;l;p
+2024-12-04 08:21:30.011703;347;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Eric Ramos;l;p
+2024-12-04 09:14:32.894451;348;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Rachel Padilla;l;p
+2024-12-04 11:54:30.088378;349;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Diane Wingfield;l;p
+2024-12-04 11:58:23.805481;350;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Eric Goodman;l;p
+2024-12-04 14:16:27.931012;351;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Cassie Smith;l;p
+2024-12-05 03:44:24.302915;352;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Mary Dixon;l;p
+2024-12-05 04:45:27.561985;353;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Sheila Shoemaker;l;p
+2024-12-05 06:05:25.474196;354;São Paulo;Lucas Pereira;Fone de ouvido Sony;Jamal Mckie;l;p
+2024-12-05 07:04:34.696820;355;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Annamarie Kirk;l;p
+2024-12-05 11:31:26.225033;356;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Harold Mabie;l;p
+2024-12-05 12:39:33.466619;357;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Mary Fretwell;l;p
+2024-12-05 12:59:27.995511;358;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Rusty Bergeron;l;p
+2024-12-05 13:10:31.389934;359;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Leona Crane;l;p
+2024-12-06 05:32:24.072334;360;São Paulo;Ana Oliveira;Smartwatch Garmin;Royce Diaz;l;p
+2024-12-06 05:51:24.028067;361;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Reba Perez;l;p
+2024-12-06 06:47:27.479089;362;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Christal Odom;l;p
+2024-12-06 06:50:27.674299;363;São Paulo;Ana Oliveira;Fone de ouvido Sony;William Duncan;l;p
+2024-12-06 08:48:29.119111;364;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Aaron Ryan;l;p
+2024-12-06 10:57:25.146773;365;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Jim Shoulders;l;p
+2024-12-06 11:43:33.023853;366;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Tanya Hyland;l;p
+2024-12-06 12:28:27.765500;367;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Mariana Okeeffe;l;p
+2024-12-06 12:39:33.851608;368;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Emma Scott;l;p
+2024-12-06 12:55:31.210149;369;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Michelle Cook;l;p
+2024-12-06 13:19:23.472842;370;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Elaine Wallace;l;p
+2024-12-07 08:07:25.082505;371;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Richard Sampson;l;p
+2024-12-07 09:58:23.330250;372;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Darrel Lemons;l;p
+2024-12-07 10:39:33.259311;373;São Paulo;Lucas Pereira;Smartwatch Garmin;Glenna Goeller;l;p
+2024-12-07 12:54:25.977709;374;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Robert Heaton;l;p
+2024-12-08 05:51:30.935846;375;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Anthony Milligan;l;p
+2024-12-08 06:23:24.860199;376;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Dorothy Alvarado;l;p
+2024-12-08 09:17:27.074664;377;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Bryan Bishop;l;p
+2024-12-08 09:53:27.997576;378;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Nellie Rodriguez;l;p
+2024-12-08 12:45:27.948073;379;Florianópolis;Tiago Lima;Fone de ouvido Sony;Theodore Arroyo;l;p
+2024-12-08 12:57:25.028753;380;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Ebony Phillips;l;p
+2024-12-08 14:09:23.483305;381;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Gregory Jones;l;p
+2024-12-08 14:21:32.518593;382;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Philip Perdue;l;p
+2024-12-09 05:23:33.523431;383;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Michael Nelson;l;p
+2024-12-09 06:40:27.257955;384;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Joseph Newman;l;p
+2024-12-09 07:03:32.764330;385;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Antoinette Richardson;l;p
+2024-12-09 07:37:28.653888;386;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Katherine Quinto;l;p
+2024-12-09 08:02:33.488949;387;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;David Love;l;p
+2024-12-09 09:28:34.661474;388;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Allan Runyan;l;p
+2024-12-09 09:31:27.619923;389;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Debra Swearingen;l;p
+2024-12-09 10:13:34.652075;390;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Clifford Mcmakin;l;p
+2024-12-09 11:27:33.410179;391;São Paulo;Lucas Pereira;Fone de ouvido Sony;Robert Rounds;l;p
+2024-12-09 13:11:27.241088;392;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Joseph Henderson;l;p
+2024-12-09 14:25:23.445720;393;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Laurie Potter;l;p
+2024-12-10 05:53:31.678304;394;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Patsy Gray;l;p
+2024-12-10 08:32:33.415762;395;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Ronald Brown;l;p
+2024-12-10 12:25:31.792743;396;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Regina Taylor;l;p
+2024-12-10 12:40:30.945466;397;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Robert Ferrell;l;p
+2024-12-11 04:10:30.713639;398;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;John Higgins;l;p
+2024-12-11 04:14:23.664340;399;Florianópolis;Tiago Lima;Fone de ouvido Sony;John Gomez;l;p
+2024-12-11 08:29:27.979705;400;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Amy Grant;l;p
+2024-12-11 09:16:31.532343;401;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Michael Burke;l;p
+2024-12-11 09:36:31.961486;402;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Carol Prejean;l;p
+2024-12-11 09:50:33.369289;403;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Aubrey Neal;l;p
+2024-12-11 12:17:31.356275;404;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Margaret Sundberg;l;p
+2024-12-12 04:40:28.699131;405;Florianópolis;Tiago Lima;Fone de ouvido Sony;Teresa Brotherton;l;p
+2024-12-13 07:47:32.613322;406;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Giovanna Riley;l;p
+2024-12-13 08:29:30.534528;407;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Calvin Logan;l;p
+2024-12-13 11:04:34.466430;408;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Ruby Pelletier;l;p
+2024-12-13 13:44:27.677667;409;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Shari Lai;l;p
+2024-12-14 04:35:31.037796;410;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Arnold Zingaro;l;p
+2024-12-14 06:50:28.925384;411;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Christopher Smith;l;p
+2024-12-14 08:00:25.662959;412;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Laurie Pittman;l;p
+2024-12-14 08:11:32.602942;413;São Paulo;Ana Oliveira;Tablet Apple Ipad;Leroy Keeton;l;p
+2024-12-14 10:26:32.844452;414;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Steven King;l;p
+2024-12-14 11:48:31.960347;415;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Joseph Johnson;l;p
+2024-12-14 13:22:23.953674;416;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Maria Griffin;l;p
+2024-12-15 04:29:28.558040;417;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Robert Lawson;l;p
+2024-12-15 06:09:27.075001;418;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Dorothy Herbert;l;p
+2024-12-15 09:40:34.700058;419;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Robert Contreras;l;p
+2024-12-15 10:10:23.938494;420;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Francis Hawkins;l;p
+2024-12-15 10:14:31.360930;421;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Jorge Rush;l;p
+2024-12-15 10:24:28.550145;422;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Harold Newberry;l;p
+2024-12-16 05:22:30.624896;423;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Brett Fruman;l;p
+2024-12-16 05:43:28.051418;424;São Paulo;Ana Oliveira;Tablet Apple Ipad;Glen Townsend;l;p
+2024-12-16 06:49:31.572133;425;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Jessica Heller;l;p
+2024-12-16 09:05:27.483459;426;São Paulo;Ana Oliveira;Fone de ouvido Sony;Richard Coro;l;p
+2024-12-16 09:38:28.645371;427;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Cindy Turner;l;p
+2024-12-16 12:48:33.583050;428;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;David Schulz;l;p
+2024-12-16 13:27:30.076565;429;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Susan Cobb;l;p
+2024-12-17 10:05:32.845797;430;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Alicia Montgomery;l;p
+2024-12-17 10:57:29.247419;431;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Ida Christensen;l;p
+2024-12-18 03:33:33.523675;432;São Paulo;Ana Oliveira;Smartwatch Garmin;Jewel Gray;l;p
+2024-12-18 05:21:24.762396;433;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Emilia Martinez;l;p
+2024-12-18 05:37:27.004382;434;Florianópolis;Gabriela Santos;Fone de ouvido Sony;John Meyer;l;p
+2024-12-18 08:58:33.361373;435;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Alvin Minks;l;p
+2024-12-18 12:23:31.063685;436;São Paulo;Lucas Pereira;Fone de ouvido Sony;Cynthia Duggins;l;p
+2024-12-19 03:56:27.612457;437;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Carl Esparza;l;p
+2024-12-19 05:29:30.728716;438;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Shirley Vassallo;l;p
+2024-12-19 08:02:34.105093;439;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Donna Tirado;l;p
+2024-12-19 12:55:24.907322;440;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Joseph Hernandez;l;p
+2024-12-20 05:07:23.919113;441;Florianópolis;Tiago Lima;Smartwatch Garmin;Earl Minor;l;p
+2024-12-20 05:29:24.507958;442;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Warren Anderson;l;p
+2024-12-20 06:25:25.674386;443;São Paulo;Lucas Pereira;Smartwatch Garmin;Ronald Pride;l;p
+2024-12-20 06:56:30.412653;444;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Lisa Schafer;l;p
+2024-12-20 07:15:32.270244;445;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;John Rooks;l;p
+2024-12-20 08:45:27.611236;446;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Ginger Proctor;l;p
+2024-12-20 12:34:34.182020;447;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Kevin Cantara;l;p
+2024-12-21 04:50:24.007874;448;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Robin Reese;l;p
+2024-12-21 05:27:32.553504;449;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Eric Blish;l;p
+2024-12-21 05:50:32.138812;450;São Paulo;Lucas Pereira;Tablet Apple Ipad;Jerome Bryant;l;p
+2024-12-21 06:31:24.687250;451;Florianópolis;Tiago Lima;Tablet Apple Ipad;Melissa Mendez;l;p
+2024-12-21 08:50:32.764640;452;Florianópolis;Tiago Lima;Fone de ouvido Sony;John Stiles;l;p
+2024-12-21 09:46:31.495903;453;Florianópolis;Tiago Lima;Smartwatch Garmin;Mamie Temple;l;p
+2024-12-21 10:06:24.910991;454;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Charles Minjares;l;p
+2024-12-21 11:36:31.515664;455;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Misty Leahy;l;p
+2024-12-21 12:26:24.685677;456;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Theresa Emerson;l;p
+2024-12-22 08:02:27.857236;457;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Marie Sewell;l;p
+2024-12-22 08:09:31.282672;458;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Sarah Wheat;l;p
+2024-12-22 08:11:23.964481;459;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Katherine Mckinzie;l;p
+2024-12-22 08:33:29.087745;460;São Paulo;Lucas Pereira;Tablet Apple Ipad;Joan Tolan;l;p
+2024-12-22 11:35:31.539651;461;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Jamie Tarpley;l;p
+2024-12-22 12:11:28.549634;462;São Paulo;Ana Oliveira;Tablet Apple Ipad;Trisha Baker;l;p
+2024-12-23 04:04:29.676697;463;São Paulo;Lucas Pereira;Smartwatch Garmin;Albert Mcclinton;l;p
+2024-12-23 07:13:29.032564;464;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Mary Watts;l;p
+2024-12-23 07:13:30.535411;465;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Sam Seburg;l;p
+2024-12-23 08:20:34.366333;466;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Antoinette Korfhage;l;p
+2024-12-23 09:03:30.849304;467;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Maxine Mccrea;l;p
+2024-12-23 09:38:24.288129;468;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;James Sowinski;l;p
+2024-12-24 06:34:32.552952;469;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Toni Anderson;l;p
+2024-12-24 07:39:26.168604;470;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Peggy Haitz;l;p
+2024-12-24 08:43:26.096349;471;São Paulo;Lucas Pereira;Tablet Apple Ipad;Robert Hunderlach;l;p
+2024-12-24 10:12:29.020124;472;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Jerome Profit;l;p
+2024-12-24 10:28:27.994298;473;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Luke Johnson;l;p
+2024-12-24 10:48:23.719278;474;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Richard York;l;p
+2024-12-24 13:20:28.604349;475;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Jeanette Loque;l;p
+2024-12-25 03:47:31.092791;476;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Mark Wilkerson;l;p
+2024-12-25 04:38:24.851869;477;São Paulo;Ana Oliveira;Fone de ouvido Sony;George Mccafferty;l;p
+2024-12-25 05:33:30.789915;478;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Brandy Pope;l;p
+2024-12-25 13:37:24.395180;479;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Jerry Gardin;l;p
+2024-12-26 03:35:27.688447;480;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Stephen Ogrodowicz;l;p
+2024-12-26 04:57:23.269407;481;Florianópolis;Gabriela Santos;Smartwatch Garmin;Patrick Shivers;l;p
+2024-12-26 06:17:26.220859;482;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Joshua Brown;l;p
+2024-12-26 08:41:27.274322;483;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Wanda Verdino;l;p
+2024-12-26 12:28:26.263014;484;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Alfredo Martinez;l;p
+2024-12-27 06:26:24.531117;485;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Tracy Hillian;l;p
+2024-12-27 06:56:25.480343;486;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Dorothy Jones;l;p
+2024-12-27 07:05:26.065904;487;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Jay Florentino;l;p
+2024-12-27 07:31:34.433646;488;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Daniel Bigelow;l;p
+2024-12-27 08:08:32.131337;489;Florianópolis;Gabriela Santos;Tablet Apple Ipad;William Young;l;p
+2024-12-27 08:40:28.967421;490;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Milton Price;l;p
+2024-12-27 11:37:33.903927;491;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Roderick Zanola;l;p
+2024-12-27 11:40:31.494338;492;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Roland Kauffman;l;p
+2024-12-27 12:49:30.349302;493;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Roberta Adams;l;p
+2024-12-27 14:23:25.851174;494;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Gustavo Cahn;l;p
+2024-12-28 03:39:30.015857;495;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Deborah Robbins;l;p
+2024-12-28 05:27:27.180963;496;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Carline Davidson;l;p
+2024-12-28 05:39:33.563284;497;São Paulo;Lucas Pereira;Smartwatch Garmin;Edna Ye;l;p
+2024-12-28 09:37:23.953839;498;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Gina Calabro;l;p
+2024-12-28 12:44:25.114115;499;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Carolyn Ziebarth;l;p
+2024-12-29 04:07:24.070108;500;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Frederick Esquivel;l;p
+2024-12-29 05:18:33.436022;501;São Paulo;Ana Oliveira;Smartwatch Garmin;William Serano;l;p
+2024-12-29 06:15:30.091574;502;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Dana Echevarria;l;p
+2024-12-29 09:38:26.237826;503;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Morgan Miller;l;p
+2024-12-29 12:08:33.580078;504;Florianópolis;Tiago Lima;Fone de ouvido Sony;Diane Vasquez;l;p
+2024-12-30 04:55:29.221803;505;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Ann Newcomb;l;p
+2024-12-30 07:40:34.293689;506;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Erika Henrich;l;p
+2024-12-30 11:23:29.598915;507;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Alisha Wood;l;p
+2024-12-30 12:51:30.195951;508;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Salina Link;l;p
+2024-12-31 05:10:26.260708;509;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Claudia Vaughn;l;p
+2024-12-31 14:28:27.794970;510;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Georgia Dean;l;p
+2025-01-01 03:56:29.120665;511;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Jean Rosebrough;l;p
+2025-01-01 04:17:23.096550;512;Florianópolis;Tiago Lima;Smartwatch Garmin;Michael Cribb;l;p
+2025-01-01 05:08:26.608076;513;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Sylvia Stewart;l;p
+2025-01-01 06:43:28.447500;514;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Henrietta Manfredi;l;p
+2025-01-01 06:49:25.140272;515;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Donald Jennings;l;p
+2025-01-01 07:12:33.079998;516;São Paulo;Ana Oliveira;Smartwatch Garmin;Dorothy Rathbum;l;p
+2025-01-01 08:33:30.265619;517;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Carrie Willis;l;p
+2025-01-01 11:08:23.919944;518;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Christine Fieck;l;p
+2025-01-01 14:26:31.279314;519;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Leanna Hampton;l;p
+2025-01-02 03:48:28.036342;520;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Hoyt Haymaker;l;p
+2025-01-02 03:58:30.929201;521;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Reginald Shadle;l;p
+2025-01-02 05:02:28.595631;522;São Paulo;Lucas Pereira;Smartwatch Garmin;Sherri Hubbard;l;p
+2025-01-02 07:57:28.972866;523;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Jane Forsyth;l;p
+2025-01-02 11:15:28.308650;524;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Alberto Franklin;l;p
+2025-01-02 11:30:25.110451;525;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Craig Broom;l;p
+2025-01-02 12:53:26.163432;526;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Emelda Butler;l;p
+2025-01-02 13:28:27.649520;527;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Debra Walter;l;p
+2025-01-02 13:32:29.099219;528;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Grady Davis;l;p
+2025-01-03 03:47:23.072376;529;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Angela Bondy;l;p
+2025-01-03 06:44:28.718137;530;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Rhonda Stalvey;l;p
+2025-01-03 08:28:29.045054;531;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Lonna Yoo;l;p
+2025-01-03 09:20:27.332591;532;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Julie Hall;l;p
+2025-01-03 10:28:28.795724;533;São Paulo;Lucas Pereira;Fone de ouvido Sony;Colleen Rodriguez;l;p
+2025-01-03 11:02:25.474030;534;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Ronald Hernandez;l;p
+2025-01-03 12:30:28.961274;535;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Myrna Woods;l;p
+2025-01-04 05:02:24.384659;536;Florianópolis;Tiago Lima;Tablet Apple Ipad;Lisa Roman;l;p
+2025-01-04 05:09:30.190636;537;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Thomas Lollis;l;p
+2025-01-04 05:14:31.278264;538;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;James Holt;l;p
+2025-01-04 13:00:24.418263;539;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Kevin White;l;p
+2025-01-04 14:26:24.686332;540;São Paulo;Ana Oliveira;Fone de ouvido Sony;Jane Lin;l;p
+2025-01-05 03:58:29.138520;541;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Victor Dipietro;l;p
+2025-01-05 04:52:25.585687;542;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Esther Carvalho;l;p
+2025-01-05 05:30:28.953085;543;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Isaac Mcclay;l;p
+2025-01-05 07:23:28.555060;544;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Emelia Vang;l;p
+2025-01-05 08:02:32.765511;545;São Paulo;Lucas Pereira;Tablet Apple Ipad;Kelly Lesneski;l;p
+2025-01-05 08:15:31.197530;546;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Valerie Roberts;l;p
+2025-01-05 09:39:34.549721;547;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Beverly Tate;l;p
+2025-01-05 11:09:28.410309;548;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Augusta Heatly;l;p
+2025-01-05 12:40:25.231848;549;São Paulo;Lucas Pereira;Smartwatch Garmin;Viola Fells;l;p
+2025-01-05 12:53:27.994816;550;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Crystal Ramos;l;p
+2025-01-05 14:28:25.447653;551;São Paulo;Ana Oliveira;Tablet Apple Ipad;Robert Maldonado;l;p
+2025-01-06 04:17:34.664910;552;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Sarah Hall;l;p
+2025-01-06 05:10:29.296549;553;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Winifred Glassman;l;p
+2025-01-06 05:16:28.715184;554;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Joshua Rash;l;p
+2025-01-06 07:13:31.455000;555;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;David Mccandless;l;p
+2025-01-06 09:10:25.490500;556;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Yvonne Thompson;l;p
+2025-01-07 06:37:27.268465;557;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Helen Pinson;l;p
+2025-01-07 08:13:30.256235;558;São Paulo;Ana Oliveira;Fone de ouvido Sony;Vernon Valerio;l;p
+2025-01-07 11:15:32.171243;559;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Ike Howland;l;p
+2025-01-07 11:17:24.052249;560;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Jessie Killingsworth;l;p
+2025-01-08 03:29:31.093977;561;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Wayne Thompson;l;p
+2025-01-08 04:30:23.756642;562;São Paulo;Ana Oliveira;Tablet Apple Ipad;Mark George;l;p
+2025-01-08 04:40:33.898025;563;São Paulo;Lucas Pereira;Smartwatch Garmin;Kenneth Smith;l;p
+2025-01-08 04:55:31.646537;564;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Elisabeth Topete;l;p
+2025-01-08 06:28:33.491762;565;São Paulo;Lucas Pereira;Tablet Apple Ipad;Walter Tackett;l;p
+2025-01-08 06:33:25.154548;566;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Carlos Dube;l;p
+2025-01-08 07:33:25.247971;567;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Edward Tewani;l;p
+2025-01-08 10:32:32.720682;568;Florianópolis;Tiago Lima;Smartwatch Garmin;Nathan Torrez;l;p
+2025-01-08 11:12:27.447192;569;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Paul Leven;l;p
+2025-01-08 11:15:24.575505;570;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Shaun Buttry;l;p
+2025-01-08 13:57:31.660742;571;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Bertha Anderson;l;p
+2025-01-09 06:18:31.281493;572;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Rachel Carrington;l;p
+2025-01-09 08:41:26.165977;573;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Andrew Bobo;l;p
+2025-01-09 11:00:33.490180;574;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Patrick Honeycutt;l;p
+2025-01-10 06:36:29.363949;575;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;David Hamilton;l;p
+2025-01-10 07:43:28.550033;576;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Sharon Johnson;l;p
+2025-01-10 08:21:26.600183;577;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Franklin Case;l;p
+2025-01-10 10:06:27.794538;578;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Sharon Hoover;l;p
+2025-01-10 14:15:28.702396;579;São Paulo;Lucas Pereira;Tablet Apple Ipad;Lisa Lotts;l;p
+2025-01-11 11:00:32.051878;580;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Ella Lavis;l;p
+2025-01-11 11:29:24.417799;581;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Donald Farrell;l;p
+2025-01-11 12:51:24.341074;582;Florianópolis;Tiago Lima;Tablet Apple Ipad;Ronald Gannaway;l;p
+2025-01-11 13:53:26.482696;583;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Beverly Garrette;l;p
+2025-01-11 14:08:34.204432;584;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Lettie Soliman;l;p
+2025-01-12 04:38:27.103110;585;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Roy Messer;l;p
+2025-01-12 06:20:31.099289;586;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Mario Brendel;l;p
+2025-01-12 06:56:30.003183;587;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Reginald Allen;l;p
+2025-01-12 08:50:32.049421;588;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Manuel Howard;l;p
+2025-01-12 11:43:27.613289;589;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Melissa Galbreath;l;p
+2025-01-12 12:24:24.007144;590;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Anne Camp;l;p
+2025-01-13 04:20:23.278466;591;Florianópolis;Tiago Lima;Smartwatch Garmin;William Odegard;l;p
+2025-01-13 06:33:34.526472;592;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Felix Alford;l;p
+2025-01-13 13:35:30.201899;593;Florianópolis;Gabriela Santos;Smartwatch Garmin;Tony Martineau;l;p
+2025-01-14 06:05:31.496958;594;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Carl Meeler;l;p
+2025-01-14 07:25:32.602584;595;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Robert Rowe;l;p
+2025-01-14 09:00:28.717515;596;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Joesph Webb;l;p
+2025-01-14 11:15:33.375526;597;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Larry Strickland;l;p
+2025-01-14 12:39:32.257540;598;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Michael Witte;l;p
+2025-01-15 03:59:31.900265;599;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Clay Curry;l;p
+2025-01-15 04:00:30.992215;600;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Laurie Halton;l;p
+2025-01-15 04:30:27.307807;601;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Allan Hartley;l;p
+2025-01-15 05:27:27.302492;602;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Paul Deckard;l;p
+2025-01-15 06:55:23.938949;603;Florianópolis;Tiago Lima;Fone de ouvido Sony;Betty Damico;l;p
+2025-01-15 07:24:30.195791;604;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Daniel Sanchez;l;p
+2025-01-15 08:09:30.185361;605;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Stacy Berlin;l;p
+2025-01-15 10:52:23.886036;606;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Thomas Hayes;l;p
+2025-01-15 12:33:25.156704;607;São Paulo;Lucas Pereira;Smartwatch Garmin;Edgar Jones;l;p
+2025-01-15 13:45:32.033775;608;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Lois Rubio;l;p
+2025-01-16 04:00:34.637211;609;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Marcia Wedel;l;p
+2025-01-16 04:28:32.494569;610;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Teresa Camille;l;p
+2025-01-16 05:24:29.283122;611;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Shane Richardson;l;p
+2025-01-16 05:28:28.551736;612;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;George Huffman;l;p
+2025-01-16 07:04:25.156473;613;Florianópolis;Gabriela Santos;Tablet Apple Ipad;John Stewart;l;p
+2025-01-16 07:07:34.447643;614;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Brenda Wildner;l;p
+2025-01-16 08:34:31.823018;615;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Robin Pargo;l;p
+2025-01-16 11:29:33.409770;616;São Paulo;Ana Oliveira;Tablet Apple Ipad;Suzanne Soto;l;p
+2025-01-16 14:02:34.070372;617;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Venice Hulsizer;l;p
+2025-01-17 04:32:34.549058;618;São Paulo;Lucas Pereira;Tablet Apple Ipad;Gabriela Allen;l;p
+2025-01-17 06:35:28.067137;619;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Michael Malady;l;p
+2025-01-17 08:31:27.446793;620;São Paulo;Lucas Pereira;Smartwatch Garmin;Gerard Mcdaniel;l;p
+2025-01-17 14:00:32.403863;621;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Joel Goldberg;l;p
+2025-01-18 07:57:34.736247;622;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Adolfo Tirey;l;p
+2025-01-18 08:40:27.779784;623;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Dana Williams;l;p
+2025-01-18 08:43:31.518167;624;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Brittany Sneller;l;p
+2025-01-18 10:34:32.605527;625;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Stanley Stewart;l;p
+2025-01-18 11:47:30.190321;626;São Paulo;Lucas Pereira;Smartwatch Garmin;Mary Hawkins;l;p
+2025-01-18 12:17:29.248629;627;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;David Harris;l;p
+2025-01-18 14:26:27.633731;628;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Terry Hunsucker;l;p
+2025-01-19 10:58:28.544752;629;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Lillie Short;l;p
+2025-01-20 04:30:25.457450;630;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Kaitlyn Leanos;l;p
+2025-01-20 05:52:24.515711;631;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Kelly Nunez;l;p
+2025-01-20 06:01:28.256484;632;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Frank Oreily;l;p
+2025-01-20 07:39:33.416100;633;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Sarah Wilson;l;p
+2025-01-20 12:15:33.135742;634;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Rosa Sandoval;l;p
+2025-01-21 03:32:34.601193;635;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Ralph Picard;l;p
+2025-01-21 05:19:23.175596;636;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Joe Bennett;l;p
+2025-01-21 08:29:34.626929;637;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Phyllis Padilla;l;p
+2025-01-21 10:13:30.936589;638;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Wendy Smiley;l;p
+2025-01-21 12:13:30.022440;639;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Jack Sherrell;l;p
+2025-01-22 04:34:24.311807;640;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Ethel Pendergraph;l;p
+2025-01-22 04:42:26.413828;641;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Francisco Hockman;l;p
+2025-01-22 04:52:27.610940;642;Florianópolis;Tiago Lima;Fone de ouvido Sony;Tonya Hudson;l;p
+2025-01-22 05:41:34.280572;643;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Lester Jones;l;p
+2025-01-22 06:07:25.140532;644;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Ann Buckley;l;p
+2025-01-22 08:45:26.879354;645;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Chris Muller;l;p
+2025-01-23 04:39:23.036181;646;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Barbara Byassee;l;p
+2025-01-23 06:44:25.850395;647;Florianópolis;Gabriela Santos;Smartwatch Garmin;Shirley Deleon;l;p
+2025-01-23 08:34:25.479183;648;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Doris Arredondo;l;p
+2025-01-23 09:41:26.616505;649;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Helen Wassermann;l;p
+2025-01-24 03:57:32.597182;650;Florianópolis;Tiago Lima;Tablet Apple Ipad;Kelvin Farnham;l;p
+2025-01-24 08:38:24.554773;651;São Paulo;Lucas Pereira;Smartwatch Garmin;Ken Monnier;l;p
+2025-01-24 11:29:33.357325;652;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Gary Hayden;l;p
+2025-01-24 12:40:30.015444;653;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Gwen Walker;l;p
+2025-01-25 06:04:32.403253;654;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Aaron Booker;l;p
+2025-01-25 11:21:27.205278;655;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Cindy Leal;l;p
+2025-01-25 13:47:24.281937;656;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Charles Gough;l;p
+2025-01-26 03:39:33.619623;657;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Katie Briel;l;p
+2025-01-26 03:49:34.268200;658;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Marie Bacon;l;p
+2025-01-26 05:47:27.610475;659;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;David Randolph;l;p
+2025-01-26 05:53:32.926491;660;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Ramon Hill;l;p
+2025-01-26 09:11:32.133661;661;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Lynn Helton;l;p
+2025-01-26 09:21:26.059139;662;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;James Jackson;l;p
+2025-01-26 09:49:27.795338;663;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Michael Stevens;l;p
+2025-01-26 12:00:33.416902;664;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Rick Hardin;l;p
+2025-01-27 03:51:29.885700;665;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Ryan Krishun;l;p
+2025-01-27 05:25:28.967723;666;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Rachel Askins;l;p
+2025-01-27 05:41:28.444950;667;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Mary Demarco;l;p
+2025-01-27 07:07:27.257826;668;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Margaret Hill;l;p
+2025-01-27 07:08:28.820234;669;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Patricia Willis;l;p
+2025-01-27 07:19:30.076887;670;Florianópolis;Tiago Lima;Fone de ouvido Sony;Frederick Moris;l;p
+2025-01-27 07:28:34.599760;671;Florianópolis;Tiago Lima;Smartwatch Garmin;Joann Duckworth;l;p
+2025-01-27 07:55:27.242637;672;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Pamela Campbell;l;p
+2025-01-27 09:01:26.220062;673;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Kathy Painter;l;p
+2025-01-27 10:27:25.984985;674;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Michele Ohara;l;p
+2025-01-27 13:08:30.197919;675;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Lawrence Volk;l;p
+2025-01-28 04:52:24.764868;676;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Kevin Gonzales;l;p
+2025-01-28 05:29:27.127048;677;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Shawna Moe;l;p
+2025-01-28 10:34:24.220434;678;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Bernie Bennett;l;p
+2025-01-28 11:05:33.294661;679;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Edgar Ramsey;l;p
+2025-01-28 11:30:29.027900;680;Florianópolis;Tiago Lima;Tablet Apple Ipad;Ima Nesbit;l;p
+2025-01-28 12:21:26.608868;681;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Thomas Flower;l;p
+2025-01-28 12:27:30.950642;682;São Paulo;Lucas Pereira;Tablet Apple Ipad;Nancy Gibney;l;p
+2025-01-29 07:08:34.219223;683;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Mark Campbell;l;p
+2025-01-29 08:09:30.323258;684;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Logan Lindstedt;l;p
+2025-01-29 09:28:34.330586;685;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Vicki Ziech;l;p
+2025-01-29 10:30:31.652989;686;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Ryan Ledford;l;p
+2025-01-29 10:51:30.712339;687;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Catherine Vang;l;p
+2025-01-29 13:16:32.178442;688;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Vincent Lokken;l;p
+2025-01-30 06:08:27.306490;689;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Wilfred Jackson;l;p
+2025-01-30 06:58:25.716040;690;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Rebecca Miller;l;p
+2025-01-30 07:07:34.556250;691;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Ray Brown;l;p
+2025-01-30 09:48:30.900097;692;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Sheila Colflesh;l;p
+2025-01-30 11:30:25.374533;693;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Vincent Testerman;l;p
+2025-01-30 14:00:30.093789;694;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Rosa Green;l;p
+2025-01-31 04:50:32.604867;695;Florianópolis;Tiago Lima;Tablet Apple Ipad;Janet Gregg;l;p
+2025-01-31 08:29:30.714232;696;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Sylvia Escobedo;l;p
+2025-01-31 08:53:24.614425;697;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Anna Weems;l;p
+2025-01-31 12:22:26.888723;698;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Scott Money;l;p
+2025-02-01 03:48:31.295459;699;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Samuel Kliebert;l;p
+2025-02-01 12:41:32.263576;700;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Brooks Boner;l;p
+2025-02-02 09:25:24.942461;701;São Paulo;Lucas Pereira;Tablet Apple Ipad;Carlos Pickup;l;p
+2025-02-02 10:46:28.595256;702;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Margaret Stanley;l;p
+2025-02-02 11:43:23.838986;703;Florianópolis;Gabriela Santos;Smartwatch Garmin;Laurel Milosevic;l;p
+2025-02-03 06:48:34.634039;704;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Chris Fender;l;p
+2025-02-03 06:49:29.434091;705;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Janet Zee;l;p
+2025-02-04 05:43:24.928294;706;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Mark Thon;l;p
+2025-02-04 06:03:30.093987;707;Florianópolis;Gabriela Santos;Fone de ouvido Sony;James Seldon;l;p
+2025-02-04 08:49:30.076018;708;São Paulo;Ana Oliveira;Fone de ouvido Sony;Kevin Trujillo;l;p
+2025-02-04 10:53:23.665983;709;Florianópolis;Gabriela Santos;Smartwatch Garmin;Eugene Poor;l;p
+2025-02-05 04:38:26.399402;710;Florianópolis;Tiago Lima;Fone de ouvido Sony;John Amoroso;l;p
+2025-02-05 05:26:28.554107;711;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Ruth Hagan;l;p
+2025-02-05 06:49:25.465910;712;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Anita Parvin;l;p
+2025-02-05 06:55:25.156182;713;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Mary Gonzalez;l;p
+2025-02-05 10:03:27.736034;714;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Earl Hughes;l;p
+2025-02-06 03:43:25.930728;715;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Crystal Mirza;l;p
+2025-02-06 05:16:23.357553;716;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Shannon Kluge;l;p
+2025-02-06 09:05:31.850566;717;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Elizabeth Givens;l;p
+2025-02-06 09:17:30.899762;718;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Arthur Murphy;l;p
+2025-02-07 05:27:26.284898;719;São Paulo;Lucas Pereira;Tablet Apple Ipad;Gordon Barnes;l;p
+2025-02-07 05:36:34.106553;720;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Terry Mcgroarty;l;p
+2025-02-07 06:28:28.890413;721;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Paul Kirk;l;p
+2025-02-07 08:17:34.831795;722;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Ruben Soto;l;p
+2025-02-07 10:47:33.018195;723;Florianópolis;Tiago Lima;Smartwatch Garmin;Christina Peavy;l;p
+2025-02-07 11:33:33.370098;724;São Paulo;Lucas Pereira;Tablet Apple Ipad;Peggy Lykins;l;p
+2025-02-08 04:35:28.794324;725;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Carol Bryant;l;p
+2025-02-08 06:19:31.654104;726;São Paulo;Ana Oliveira;Tablet Apple Ipad;Wanda Warren;l;p
+2025-02-08 07:48:29.995417;727;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Ramona Spencer;l;p
+2025-02-08 11:16:25.554669;728;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Sandra Kahler;l;p
+2025-02-09 06:00:24.860600;729;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Catherine Puotinen;l;p
+2025-02-09 08:20:31.575361;730;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Laura Coleman;l;p
+2025-02-09 08:56:23.913513;731;São Paulo;Lucas Pereira;Tablet Apple Ipad;Cathie Link;l;p
+2025-02-09 12:51:25.707639;732;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Mack Pitt;l;p
+2025-02-10 03:50:25.490757;733;Florianópolis;Tiago Lima;Smartwatch Garmin;Sylvia Arsenault;l;p
+2025-02-10 04:05:27.876030;734;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;George Caballero;l;p
+2025-02-10 05:59:34.129778;735;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Bertha Mckenney;l;p
+2025-02-10 07:58:25.610767;736;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Gerald Webb;l;p
+2025-02-10 10:03:24.029531;737;São Paulo;Ana Oliveira;Tablet Apple Ipad;Ronald Carter;l;p
+2025-02-10 11:28:25.107969;738;São Paulo;Ana Oliveira;Tablet Apple Ipad;Joseph Jewell;l;p
+2025-02-10 11:39:27.207915;739;Florianópolis;Tiago Lima;Fone de ouvido Sony;Richard Sloan;l;p
+2025-02-10 11:51:33.026680;740;São Paulo;Ana Oliveira;Fone de ouvido Sony;Jennifer Massey;l;p
+2025-02-10 13:27:23.755756;741;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Johnny Temple;l;p
+2025-02-11 04:56:29.964109;742;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Trudie Sandoval;l;p
+2025-02-11 06:28:30.258723;743;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Kyle Walters;l;p
+2025-02-11 07:18:31.663603;744;São Paulo;Lucas Pereira;Tablet Apple Ipad;William Wells;l;p
+2025-02-11 09:01:25.845617;745;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Thad Fairley;l;p
+2025-02-11 09:12:27.134614;746;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Colleen Garcia;l;p
+2025-02-11 11:22:33.765803;747;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Sylvia Jensen;l;p
+2025-02-11 11:36:27.121709;748;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Jason Oneill;l;p
+2025-02-11 13:10:30.270629;749;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Debbie Meeks;l;p
+2025-02-11 14:07:32.254444;750;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Bonnie Dowdell;l;p
+2025-02-12 04:07:27.948877;751;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Herbert Birge;l;p
+2025-02-12 07:22:31.203467;752;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Anne Renner;l;p
+2025-02-12 07:47:30.945075;753;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Daryl Rodriguez;l;p
+2025-02-12 12:46:28.108594;754;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Richard Theden;l;p
+2025-02-12 13:17:29.043549;755;Florianópolis;Tiago Lima;Tablet Apple Ipad;Patricia Abraham;l;p
+2025-02-13 04:11:34.170228;756;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Isabel Ramirez;l;p
+2025-02-13 05:27:28.893487;757;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Ezequiel Lewis;l;p
+2025-02-13 07:30:24.022496;758;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;William Fagan;l;p
+2025-02-13 07:53:31.201022;759;São Paulo;Lucas Pereira;Tablet Apple Ipad;Dean Mcdaniels;l;p
+2025-02-13 09:53:33.961972;760;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Roberta Hamilton;l;p
+2025-02-13 11:24:26.221299;761;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Amie Baker;l;p
+2025-02-13 13:37:23.691050;762;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Linda Vasile;l;p
+2025-02-14 04:07:33.557743;763;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Melody Doerr;l;p
+2025-02-14 05:50:25.327582;764;São Paulo;Lucas Pereira;Tablet Apple Ipad;James Rubio;l;p
+2025-02-14 06:02:32.237746;765;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Joseph Young;l;p
+2025-02-14 08:10:34.637090;766;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Paul Williams;l;p
+2025-02-14 08:46:34.698427;767;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Marsha Melton;l;p
+2025-02-14 11:25:34.219353;768;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Richard Stewart;l;p
+2025-02-14 11:35:34.227047;769;São Paulo;Lucas Pereira;Fone de ouvido Sony;Kimberly Gioe;l;p
+2025-02-14 12:32:30.875477;770;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Thomas Strassburg;l;p
+2025-02-14 14:14:23.918688;771;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Margaret Decker;l;p
+2025-02-15 05:05:34.268961;772;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;William Gadberry;l;p
+2025-02-15 13:58:24.069164;773;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Tracy Aldridge;l;p
+2025-02-15 14:09:24.456500;774;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Harry Slaybaugh;l;p
+2025-02-16 13:18:28.894475;775;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Jacob Magruder;l;p
+2025-02-17 06:08:25.610472;776;São Paulo;Lucas Pereira;Tablet Apple Ipad;Beverly Guzman;l;p
+2025-02-17 07:33:23.739613;777;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Bernadette Pestana;l;p
+2025-02-17 07:40:27.885067;778;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Leticia Humphrey;l;p
+2025-02-17 07:41:24.855980;779;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Marilyn Scarberry;l;p
+2025-02-17 07:41:31.094188;780;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Celia Grande;l;p
+2025-02-17 09:46:29.969315;781;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Lucy Ward;l;p
+2025-02-17 10:34:26.234445;782;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Kathy Marlowe;l;p
+2025-02-17 10:34:32.091347;783;Florianópolis;Tiago Lima;Tablet Apple Ipad;Daniel Pickrell;l;p
+2025-02-17 12:47:26.601824;784;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Anna Vang;l;p
+2025-02-18 05:13:30.830914;785;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Judith Rawe;l;p
+2025-02-18 06:16:27.474717;786;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Tiffany Freeman;l;p
+2025-02-18 06:39:23.578146;787;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Michael Lambertson;l;p
+2025-02-18 07:19:31.762399;788;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Amber Howard;l;p
+2025-02-18 07:19:34.550058;789;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Deborah Pecora;l;p
+2025-02-18 09:21:33.485490;790;São Paulo;Lucas Pereira;Smartwatch Garmin;Wesley Babb;l;p
+2025-02-18 10:06:27.807597;791;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Charles Dubard;l;p
+2025-02-18 11:21:33.416388;792;Florianópolis;Tiago Lima;Fone de ouvido Sony;Katherine Petersen;l;p
+2025-02-18 13:28:27.407993;793;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Nathalie Terry;l;p
+2025-02-18 13:53:29.600026;794;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Willie Williams;l;p
+2025-02-19 09:25:30.868433;795;Florianópolis;Gabriela Santos;Smartwatch Garmin;James Olmos;l;p
+2025-02-19 11:16:29.246350;796;São Paulo;Lucas Pereira;Smartwatch Garmin;Reggie Reed;l;p
+2025-02-19 13:51:33.591528;797;São Paulo;Ana Oliveira;Fone de ouvido Sony;Josh Tobar;l;p
+2025-02-20 06:38:27.995068;798;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Debra Murphy;l;p
+2025-02-20 09:25:27.061222;799;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Caroline Thompson;l;p
+2025-02-20 09:26:27.858005;800;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Jon Reed;l;p
+2025-02-20 09:29:23.091246;801;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Stanley Waits;l;p
+2025-02-20 13:03:24.519100;802;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Kimberlie Hall;l;p
+2025-02-21 07:37:29.996735;803;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Alfred Fletcher;l;p
+2025-02-21 10:43:29.042010;804;São Paulo;Lucas Pereira;Fone de ouvido Sony;Bonnie Hoskins;l;p
+2025-02-22 06:50:23.794257;805;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Lucy Robledo;l;p
+2025-02-22 08:45:25.473717;806;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Clifford Wells;l;p
+2025-02-22 10:16:23.916754;807;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Sonia Alaniz;l;p
+2025-02-22 13:08:32.340179;808;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Orlando Little;l;p
+2025-02-23 03:38:29.181671;809;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Daniel Richardson;l;p
+2025-02-23 05:10:24.099756;810;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;June Mattione;l;p
+2025-02-23 05:10:29.363564;811;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Sharon Montgomery;l;p
+2025-02-23 06:09:23.596377;812;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Nancy Hall;l;p
+2025-02-23 06:50:27.679936;813;Florianópolis;Gabriela Santos;Smartwatch Garmin;Richard Hollon;l;p
+2025-02-23 07:26:31.665462;814;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Tina Lehman;l;p
+2025-02-23 07:33:27.648647;815;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Sylvia Copeland;l;p
+2025-02-23 07:38:26.396709;816;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Steven Short;l;p
+2025-02-23 07:48:32.968550;817;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Harry Overton;l;p
+2025-02-24 04:17:31.037566;818;São Paulo;Ana Oliveira;Tablet Apple Ipad;Nicole Austin;l;p
+2025-02-24 04:31:23.919789;819;Florianópolis;Tiago Lima;Fone de ouvido Sony;Christopher Graham;l;p
+2025-02-24 06:02:33.375850;820;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Ricardo Rodriquez;l;p
+2025-02-24 08:13:30.114197;821;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Brad Brisbon;l;p
+2025-02-24 08:24:24.406665;822;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Rafael Welch;l;p
+2025-02-24 09:01:28.453710;823;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Felix Moeller;l;p
+2025-02-24 11:40:31.418021;824;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Linda Deal;l;p
+2025-02-24 12:03:28.503096;825;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Jarrett Peeples;l;p
+2025-02-24 12:40:31.575544;826;São Paulo;Lucas Pereira;Fone de ouvido Sony;Mark Ordman;l;p
+2025-02-24 14:06:27.171674;827;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Steven Ramirez;l;p
+2025-02-25 03:45:32.089189;828;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Howard Crouch;l;p
+2025-02-25 05:17:26.556471;829;São Paulo;Ana Oliveira;Tablet Apple Ipad;Brandon Vissering;l;p
+2025-02-25 05:17:32.844655;830;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Mario Jones;l;p
+2025-02-25 09:18:31.247368;831;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Frederick Grant;l;p
+2025-02-26 09:08:31.792920;832;São Paulo;Lucas Pereira;Tablet Apple Ipad;Octavia Shear;l;p
+2025-02-26 09:45:28.506106;833;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Elaine Jackson;l;p
+2025-02-26 10:40:27.979906;834;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Alisha Raines;l;p
+2025-02-26 12:39:30.823283;835;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Alina Chagnon;l;p
+2025-02-27 04:35:27.686237;836;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Jason Saucier;l;p
+2025-02-27 07:52:30.177790;837;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Janet Seng;l;p
+2025-02-27 08:06:26.064866;838;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Lisa Valenzuela;l;p
+2025-02-27 08:13:29.368208;839;São Paulo;Lucas Pereira;Fone de ouvido Sony;Kimberly Carlton;l;p
+2025-02-27 08:31:24.762951;840;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;John Everett;l;p
+2025-02-27 11:21:23.720201;841;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Ira Seddon;l;p
+2025-02-28 11:19:33.517973;842;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Cheryl Mai;l;p
+2025-03-01 03:40:25.670016;843;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Janice Smitherman;l;p
+2025-03-01 07:13:32.625045;844;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Bill Bradley;l;p
+2025-03-01 11:11:31.874144;845;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Dawn Rightmire;l;p
+2025-03-01 11:22:32.520922;846;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Lucas Holsopple;l;p
+2025-03-01 12:01:32.043551;847;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Michael Swaney;l;p
+2025-03-02 03:50:31.805011;848;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Rodger Allen;l;p
+2025-03-02 06:39:31.247122;849;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Harvey King;l;p
+2025-03-02 08:42:33.829794;850;Florianópolis;Tiago Lima;Smartwatch Garmin;George Jackson;l;p
+2025-03-02 08:57:34.598498;851;São Paulo;Lucas Pereira;Fone de ouvido Sony;Charlie Johnson;l;p
+2025-03-02 09:16:30.349524;852;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Olivia Gallegos;l;p
+2025-03-02 12:38:29.048986;853;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Maria Lee;l;p
+2025-03-02 13:09:23.805760;854;São Paulo;Lucas Pereira;Fone de ouvido Sony;Kay Coleman;l;p
+2025-03-02 13:50:32.945625;855;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Julia Paparo;l;p
+2025-03-02 14:09:28.593858;856;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Libby Woods;l;p
+2025-03-03 07:29:29.432276;857;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Juan Jones;l;p
+2025-03-03 10:08:30.182191;858;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Fannie Newsom;l;p
+2025-03-03 12:17:34.188108;859;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Kelli Johnson;l;p
+2025-03-03 13:25:25.716771;860;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Warren Delgado;l;p
+2025-03-04 04:06:25.447919;861;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Tamara Tickle;l;p
+2025-03-04 06:44:31.871630;862;Florianópolis;Gabriela Santos;Fone de ouvido Sony;John Mattox;l;p
+2025-03-04 09:06:25.109038;863;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Manuel Parson;l;p
+2025-03-04 09:31:25.140035;864;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;William Ford;l;p
+2025-03-04 10:04:33.412291;865;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Heather Schumacher;l;p
+2025-03-05 04:20:33.136365;866;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Leslie Lay;l;p
+2025-03-05 05:57:23.173287;867;Florianópolis;Tiago Lima;Tablet Apple Ipad;Krystal Koehler;l;p
+2025-03-05 09:55:25.031113;868;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Terri Rehart;l;p
+2025-03-05 12:09:26.736582;869;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Karen Distaffen;l;p
+2025-03-05 12:45:31.304642;870;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Lola Owen;l;p
+2025-03-06 06:00:29.997015;871;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Christine Herrera;l;p
+2025-03-06 07:31:23.267959;872;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Carl Acosta;l;p
+2025-03-06 13:04:27.677296;873;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Yolanda Craig;l;p
+2025-03-07 03:47:31.321585;874;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Romona Squines;l;p
+2025-03-07 09:22:25.784974;875;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;David Garza;l;p
+2025-03-07 10:12:30.012676;876;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Anne James;l;p
+2025-03-07 10:58:25.480229;877;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Jerry Williams;l;p
+2025-03-07 14:19:31.936247;878;São Paulo;Lucas Pereira;Notebook Dell Inspiron;John Augeri;l;p
+2025-03-08 08:23:34.630842;879;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;George Dupree;l;p
+2025-03-08 11:27:28.497124;880;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Douglas Holloway;l;p
+2025-03-08 13:24:27.443901;881;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Dannette Farr;l;p
+2025-03-09 04:12:27.475137;882;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Charlene Rogers;l;p
+2025-03-09 04:12:34.692307;883;Florianópolis;Tiago Lima;Smartwatch Garmin;Sylvia Penton;l;p
+2025-03-09 05:34:31.018619;884;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;John Ascher;l;p
+2025-03-09 07:47:30.399842;885;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Milton Dickert;l;p
+2025-03-09 09:40:32.049778;886;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Robert Chandler;l;p
+2025-03-09 12:09:34.665375;887;São Paulo;Lucas Pereira;Smartwatch Garmin;David Costa;l;p
+2025-03-09 12:38:25.668833;888;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Kim Landers;l;p
+2025-03-09 12:42:27.216568;889;Florianópolis;Tiago Lima;Notebook Dell Inspiron;James Gordon;l;p
+2025-03-09 14:26:28.553475;890;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Brian Yarbrough;l;p
+2025-03-10 04:30:27.882579;891;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Heather Mcmillan;l;p
+2025-03-10 06:28:30.004076;892;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;John Brown;l;p
+2025-03-10 06:42:27.310753;893;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Barbara Flores;l;p
+2025-03-10 11:18:25.456638;894;Florianópolis;Tiago Lima;Fone de ouvido Sony;Jessica Kessler;l;p
+2025-03-10 12:59:34.519591;895;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Lesley Ramires;l;p
+2025-03-11 07:21:31.567412;896;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Brian Marion;l;p
+2025-03-11 09:14:33.766678;897;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Eddie Garrett;l;p
+2025-03-11 09:57:32.134716;898;São Paulo;Ana Oliveira;Smartwatch Garmin;Mary Jones;l;p
+2025-03-11 10:59:25.611632;899;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Page Cohen;l;p
+2025-03-11 11:58:31.280082;900;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Jeffery Bunch;l;p
+2025-03-11 13:42:27.883719;901;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Wayne Barker;l;p
+2025-03-12 09:28:32.458372;902;Florianópolis;Gabriela Santos;Smartwatch Garmin;Toby Blasengame;l;p
+2025-03-12 12:25:28.665533;903;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Donna Ikehara;l;p
+2025-03-12 14:10:23.761494;904;Belo Horizonte;Carlos Silva;Smartwatch Garmin;James Shackley;l;p
+2025-03-12 14:24:31.803347;905;Florianópolis;Tiago Lima;Tablet Apple Ipad;Lori Vigil;l;p
+2025-03-13 04:02:24.469636;906;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Jessica Amodeo;l;p
+2025-03-13 09:57:25.157064;907;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Elizabeth Clark;l;p
+2025-03-13 11:38:33.340877;908;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Matthew Hollenbeck;l;p
+2025-03-13 11:54:32.943583;909;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Rich Knott;l;p
+2025-03-14 06:59:31.012339;910;Florianópolis;Tiago Lima;Smartwatch Garmin;Edward Scoggins;l;p
+2025-03-14 13:12:34.143570;911;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Thomas Elliott;l;p
+2025-03-14 13:59:27.077730;912;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Maria Carbary;l;p
+2025-03-15 05:03:23.355100;913;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Helen Dow;l;p
+2025-03-15 12:08:27.242767;914;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Iesha Villarreal;l;p
+2025-03-16 06:37:27.325213;915;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Charles Rossi;l;p
+2025-03-16 10:10:33.354675;916;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Frankie Dickinson;l;p
+2025-03-16 10:49:32.735133;917;São Paulo;Ana Oliveira;Fone de ouvido Sony;Mike Rameriz;l;p
+2025-03-16 13:29:32.253147;918;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Ashley Staton;l;p
+2025-03-17 06:01:33.434686;919;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Kelly Crane;l;p
+2025-03-17 06:41:31.149784;920;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Frank Meyers;l;p
+2025-03-17 07:25:32.402994;921;Florianópolis;Gabriela Santos;Smartwatch Garmin;Raymond Andrews;l;p
+2025-03-17 08:50:31.805644;922;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Delores Brereton;l;p
+2025-03-17 09:21:27.658182;923;Florianópolis;Tiago Lima;Tablet Apple Ipad;Richard Lee;l;p
+2025-03-17 11:20:31.656065;924;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Flossie Carter;l;p
+2025-03-17 12:05:23.625429;925;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Glen Derringer;l;p
+2025-03-17 12:37:33.356387;926;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Cynthia Cowan;l;p
+2025-03-18 09:30:33.955380;927;Florianópolis;Tiago Lima;Smartwatch Garmin;Alice Graves;l;p
+2025-03-18 12:24:34.705218;928;São Paulo;Ana Oliveira;Smartwatch Garmin;Blake Lackland;l;p
+2025-03-18 12:33:32.032969;929;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Thelma Campos;l;p
+2025-03-18 13:03:28.562224;930;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Kent Cradduck;l;p
+2025-03-18 13:57:24.520831;931;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Barbara Wilkins;l;p
+2025-03-19 04:02:23.671163;932;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Bernice Werts;l;p
+2025-03-19 04:27:33.358169;933;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Regina Johnson;l;p
+2025-03-19 05:10:27.563819;934;São Paulo;Lucas Pereira;Tablet Apple Ipad;Janice Masell;l;p
+2025-03-19 06:26:27.881320;935;São Paulo;Lucas Pereira;Smartwatch Garmin;Pauline Harris;l;p
+2025-03-19 12:03:27.883325;936;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Charles King;l;p
+2025-03-20 04:10:25.136351;937;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Howard Rankin;l;p
+2025-03-20 06:13:31.792566;938;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Scott Smith;l;p
+2025-03-20 07:44:27.895058;939;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Terri Foster;l;p
+2025-03-20 07:55:31.935094;940;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Sherry Medeiros;l;p
+2025-03-20 08:16:23.275470;941;São Paulo;Ana Oliveira;Fone de ouvido Sony;Matthew Lyon;l;p
+2025-03-20 09:07:32.345242;942;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Steven Lettinga;l;p
+2025-03-20 11:21:30.822767;943;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Miguel Young;l;p
+2025-03-21 08:26:27.886441;944;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Merlyn Kroll;l;p
+2025-03-21 08:26:34.831338;945;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Fred Reed;l;p
+2025-03-21 10:28:27.556474;946;São Paulo;Ana Oliveira;Smartwatch Garmin;Shanae Jones;l;p
+2025-03-22 03:28:33.368698;947;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Allan Brown;l;p
+2025-03-22 03:36:33.721652;948;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Kevin Regan;l;p
+2025-03-22 05:39:30.189124;949;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Joan Jean;l;p
+2025-03-22 05:51:23.950059;950;Florianópolis;Tiago Lima;Fone de ouvido Sony;Penny Shannon;l;p
+2025-03-22 06:13:31.914764;951;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Steve Carbajal;l;p
+2025-03-22 07:59:25.692821;952;Florianópolis;Tiago Lima;Tablet Apple Ipad;Monica Commons;l;p
+2025-03-22 10:42:23.969064;953;São Paulo;Lucas Pereira;Smartwatch Garmin;Michael Aguirre;l;p
+2025-03-22 11:58:32.228300;954;Florianópolis;Tiago Lima;Smartwatch Garmin;Edward Lebel;l;p
+2025-03-23 04:45:33.163480;955;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Jimmy Dove;l;p
+2025-03-23 06:01:34.666743;956;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Amber Mason;l;p
+2025-03-23 06:10:31.367073;957;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;John Harris;l;p
+2025-03-23 07:08:23.601033;958;Belo Horizonte;Carlos Silva;Smartwatch Garmin;David Sammartano;l;p
+2025-03-23 07:20:27.521897;959;São Paulo;Ana Oliveira;Smartwatch Garmin;Leota Wright;l;p
+2025-03-23 13:50:27.004797;960;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Ray Mcdaniel;l;p
+2025-03-24 05:18:33.185340;961;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Audrey Pray;l;p
+2025-03-24 08:12:33.408588;962;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;James Hammer;l;p
+2025-03-24 08:19:31.656584;963;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Lester Sanchez;l;p
+2025-03-24 09:37:27.667360;964;São Paulo;Ana Oliveira;Fone de ouvido Sony;Darren Abrego;l;p
+2025-03-24 12:31:29.142492;965;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Michelle Sirles;l;p
+2025-03-25 05:40:27.658441;966;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Debra Kaya;l;p
+2025-03-25 06:21:34.162079;967;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Eva Markowski;l;p
+2025-03-25 06:34:26.852730;968;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;David Melito;l;p
+2025-03-25 06:35:28.590240;969;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Matthew Holloman;l;p
+2025-03-25 08:42:32.519779;970;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Joel Hinson;l;p
+2025-03-25 08:53:33.755349;971;Florianópolis;Tiago Lima;Tablet Apple Ipad;Derrick Whaley;l;p
+2025-03-25 10:44:33.361194;972;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Stanley Scott;l;p
+2025-03-25 11:49:32.733475;973;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Kayla Adams;l;p
+2025-03-25 12:54:34.611879;974;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Heath Foley;l;p
+2025-03-26 09:49:23.950741;975;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Kathryn Betts;l;p
+2025-03-26 10:10:33.071702;976;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Erin Jester;l;p
+2025-03-26 12:52:33.767684;977;São Paulo;Ana Oliveira;Smartwatch Garmin;George Greenwood;l;p
+2025-03-27 06:10:34.009548;978;Florianópolis;Tiago Lima;Tablet Apple Ipad;Stephanie Lannier;l;p
+2025-03-27 08:32:25.110170;979;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Wilbur Smith;l;p
+2025-03-27 10:02:29.188294;980;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Anne Meyer;l;p
+2025-03-27 11:32:27.177595;981;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Susan Burnham;l;p
+2025-03-27 12:06:26.423730;982;São Paulo;Lucas Pereira;Fone de ouvido Sony;Charles Westfall;l;p
+2025-03-27 13:37:24.382218;983;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Ryan Abner;l;p
+2025-03-28 03:48:26.298778;984;Florianópolis;Tiago Lima;Fone de ouvido Sony;Victor Killeen;l;p
+2025-03-28 06:40:24.530650;985;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Nicole Campbell;l;p
+2025-03-28 08:47:26.460576;986;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;James Ned;l;p
+2025-03-28 11:31:26.382998;987;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Nestor Burditt;l;p
+2025-03-28 13:46:26.824341;988;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Deirdre Bilbo;l;p
+2025-03-29 05:39:25.246625;989;São Paulo;Lucas Pereira;Smartwatch Garmin;Rebecca Law;l;p
+2025-03-29 06:10:32.285215;990;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Ann Faith;l;p
+2025-03-29 10:50:30.800653;991;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;James Driver;l;p
+2025-03-29 12:43:29.856461;992;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Erik Lamore;l;p
+2025-03-29 13:04:34.219845;993;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Amber Nunez;l;p
+2025-03-30 04:02:34.733709;994;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Andrea Stegall;l;p
+2025-03-30 04:04:23.458530;995;Florianópolis;Tiago Lima;Tablet Apple Ipad;James Grigg;l;p
+2025-03-30 07:18:25.663392;996;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Virginia Sampson;l;p
+2025-03-30 07:30:26.263554;997;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Karen Vires;l;p
+2025-03-30 11:26:28.502882;998;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Raymond Jackson;l;p
+2025-03-30 12:12:30.350674;999;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Bobby Dickow;l;p
+2025-03-30 12:42:24.340872;1000;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Ryan Johnson;l;p
+2025-03-30 14:16:24.055290;1001;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Darrel Walke;l;p
+2025-03-31 08:22:26.397556;1002;São Paulo;Lucas Pereira;Fone de ouvido Sony;Brian Lee;l;p
+2025-03-31 09:16:24.777945;1003;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Vivian Olivia;l;p
+2025-03-31 09:49:34.144968;1004;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Casie Rebman;l;p
+2025-03-31 10:24:24.501059;1005;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Ada Houston;l;p
+2025-03-31 11:28:29.461887;1006;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Michael Nitkowski;l;p
+2025-04-01 08:56:32.925482;1007;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Colleen Vargas;l;p
+2025-04-01 12:17:26.241297;1008;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Michelle Franklin;l;p
+2025-04-02 03:38:25.658278;1009;São Paulo;Lucas Pereira;Fone de ouvido Sony;Georgia Mancuso;l;p
+2025-04-02 03:38:28.500903;1010;São Paulo;Lucas Pereira;Tablet Apple Ipad;Henry Bauer;l;p
+2025-04-02 03:42:30.946010;1011;São Paulo;Ana Oliveira;Smartwatch Garmin;Alonzo Cunningham;l;p
+2025-04-02 04:27:29.772140;1012;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Valerie Trovillion;l;p
+2025-04-02 05:34:31.538947;1013;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Paul Butts;l;p
+2025-04-02 07:11:25.293092;1014;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Lisa Leeder;l;p
+2025-04-02 07:55:34.647401;1015;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Robert Hollowell;l;p
+2025-04-02 13:00:26.240082;1016;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Paul Goldstein;l;p
+2025-04-03 05:00:34.603004;1017;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Frankie Novack;l;p
+2025-04-03 06:11:23.718734;1018;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Marvin Mckee;l;p
+2025-04-03 08:45:23.429873;1019;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Christy Daniels;l;p
+2025-04-03 10:25:32.592565;1020;Florianópolis;Tiago Lima;Smartwatch Garmin;Debra Mcelroy;l;p
+2025-04-03 12:35:33.474927;1021;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Marlyn Speer;l;p
+2025-04-04 03:55:34.064129;1022;São Paulo;Lucas Pereira;Tablet Apple Ipad;Jennie Styron;l;p
+2025-04-04 05:38:31.454252;1023;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Ralph Hendrickson;l;p
+2025-04-04 07:19:25.707408;1024;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Robert Scott;l;p
+2025-04-04 07:42:30.963239;1025;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Violet Babers;l;p
+2025-04-04 10:47:33.739373;1026;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Odis Mangum;l;p
+2025-04-05 03:30:33.654781;1027;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Antoinette Fernandez;l;p
+2025-04-05 03:38:32.696039;1028;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;James Daniels;l;p
+2025-04-05 09:42:26.894083;1029;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Olivia Rangel;l;p
+2025-04-05 10:20:27.795518;1030;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Alice Dabrowski;l;p
+2025-04-05 10:29:30.416519;1031;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;John Hogan;l;p
+2025-04-06 05:32:26.694705;1032;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Lisa Branton;l;p
+2025-04-06 06:20:29.696245;1033;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Sarah Powers;l;p
+2025-04-06 08:50:30.396137;1034;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Kerry Monday;l;p
+2025-04-06 10:11:23.268822;1035;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Richard Higgins;l;p
+2025-04-06 11:24:34.438450;1036;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Bill Tylor;l;p
+2025-04-06 14:27:31.762988;1037;Florianópolis;Gabriela Santos;Smartwatch Garmin;Lucile Bania;l;p
+2025-04-07 05:01:34.557033;1038;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Leo Rowe;l;p
+2025-04-07 05:02:24.385105;1039;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Randall Moore;l;p
+2025-04-07 05:11:24.417493;1040;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Norman Black;l;p
+2025-04-07 05:48:30.985002;1041;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Wayne Burnette;l;p
+2025-04-07 11:13:33.489690;1042;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Martha Reyes;l;p
+2025-04-08 04:22:32.261015;1043;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Frances Matheson;l;p
+2025-04-08 04:25:26.883982;1044;São Paulo;Ana Oliveira;Smartwatch Garmin;Steve Prieto;l;p
+2025-04-08 04:44:29.188992;1045;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Peter Sutton;l;p
+2025-04-08 04:53:34.578306;1046;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Eugene Stone;l;p
+2025-04-08 06:22:26.221763;1047;São Paulo;Lucas Pereira;Tablet Apple Ipad;Ana Wood;l;p
+2025-04-08 07:36:28.805262;1048;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Andrea Jacobs;l;p
+2025-04-08 08:55:27.135236;1049;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Ronald Turner;l;p
+2025-04-08 11:51:29.996209;1050;Florianópolis;Tiago Lima;Fone de ouvido Sony;Evelyn Cabrera;l;p
+2025-04-08 12:25:29.963773;1051;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Michael Lamb;l;p
+2025-04-08 12:28:27.170467;1052;São Paulo;Lucas Pereira;Notebook Dell Inspiron;David Clark;l;p
+2025-04-08 12:34:24.024332;1053;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Matt Hall;l;p
+2025-04-08 12:41:32.508760;1054;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Jeanie Echavarria;l;p
+2025-04-08 13:45:24.927835;1055;Florianópolis;Tiago Lima;Tablet Apple Ipad;Ronald Golden;l;p
+2025-04-09 04:49:31.247586;1056;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Julie Blumhardt;l;p
+2025-04-09 04:53:24.418385;1057;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Shana Venema;l;p
+2025-04-09 05:33:27.738624;1058;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Carrie Ruiz;l;p
+2025-04-09 08:01:31.517687;1059;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Sonia Mills;l;p
+2025-04-09 08:46:28.971988;1060;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Daniel Bautista;l;p
+2025-04-09 10:58:33.571994;1061;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Christine Wood;l;p
+2025-04-09 12:27:28.482987;1062;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Liz Long;l;p
+2025-04-09 13:25:28.409921;1063;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Darlene Gonzales;l;p
+2025-04-10 07:35:30.141457;1064;São Paulo;Lucas Pereira;Smartwatch Garmin;Kathy Bridgette;l;p
+2025-04-10 13:38:30.350134;1065;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Willard Bennett;l;p
+2025-04-11 04:05:25.527988;1066;Florianópolis;Gabriela Santos;Smartwatch Garmin;Jack Brown;l;p
+2025-04-11 06:31:34.277057;1067;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Jose Santana;l;p
+2025-04-11 07:48:33.903726;1068;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Vincent King;l;p
+2025-04-11 08:32:26.845254;1069;Florianópolis;Tiago Lima;Smartwatch Garmin;Anthony Artis;l;p
+2025-04-11 08:51:28.653501;1070;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Johnny Stone;l;p
+2025-04-11 10:02:31.031380;1071;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Christie Harris;l;p
+2025-04-11 11:01:23.959035;1072;São Paulo;Lucas Pereira;Smartwatch Garmin;Michael Mcmahon;l;p
+2025-04-12 05:50:27.318941;1073;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Adam Tabb;l;p
+2025-04-12 06:05:28.553139;1074;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Tim Mitchell;l;p
+2025-04-12 07:05:25.084538;1075;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Ronald Sulik;l;p
+2025-04-12 09:16:32.109479;1076;São Paulo;Lucas Pereira;Tablet Apple Ipad;Katherine Grant;l;p
+2025-04-12 10:59:33.359012;1077;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;June Mayo;l;p
+2025-04-12 12:19:27.208747;1078;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Max Hutchinson;l;p
+2025-04-12 13:17:23.464982;1079;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Moses Lozada;l;p
+2025-04-13 04:01:25.610976;1080;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Derek Black;l;p
+2025-04-13 06:48:33.609641;1081;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Andy Karle;l;p
+2025-04-13 08:40:27.673268;1082;Florianópolis;Gabriela Santos;Smartwatch Garmin;Alberto Curran;l;p
+2025-04-13 11:39:33.853113;1083;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Willie Pealer;l;p
+2025-04-13 14:12:27.760787;1084;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Margaret Ambriz;l;p
+2025-04-14 04:13:23.600027;1085;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;George Christiansen;l;p
+2025-04-14 05:40:27.112484;1086;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Michael Pickles;l;p
+2025-04-14 06:48:25.326758;1087;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Jeffery Gates;l;p
+2025-04-14 08:27:28.961807;1088;Florianópolis;Tiago Lima;Tablet Apple Ipad;Christina Boone;l;p
+2025-04-14 10:35:27.938262;1089;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Margot Denault;l;p
+2025-04-14 10:58:27.101455;1090;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Charles Lund;l;p
+2025-04-14 12:10:33.193655;1091;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Ethel Weimar;l;p
+2025-04-14 12:28:31.313897;1092;São Paulo;Lucas Pereira;Fone de ouvido Sony;John Crown;l;p
+2025-04-14 12:45:24.009815;1093;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Lisa Platter;l;p
+2025-04-15 04:26:23.411635;1094;Belo Horizonte;Carlos Silva;Smartwatch Garmin;William Steil;l;p
+2025-04-15 07:15:29.051461;1095;Florianópolis;Gabriela Santos;Smartwatch Garmin;Sandra Miramon;l;p
+2025-04-15 07:35:27.558352;1096;Florianópolis;Tiago Lima;Smartwatch Garmin;James Prevost;l;p
+2025-04-15 11:13:26.425602;1097;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Bessie Campbell;l;p
+2025-04-15 12:34:32.892767;1098;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Marshall Brown;l;p
+2025-04-16 04:18:31.391097;1099;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Terry Bez;l;p
+2025-04-16 05:33:29.049384;1100;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Mauro Burns;l;p
+2025-04-16 07:03:33.415879;1101;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Gloria Wells;l;p
+2025-04-16 08:39:33.948093;1102;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Daniel Culberson;l;p
+2025-04-16 08:52:27.240351;1103;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Arthur Potts;l;p
+2025-04-16 11:08:33.211057;1104;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Kerry Mavraganis;l;p
+2025-04-16 12:54:31.920928;1105;São Paulo;Lucas Pereira;Fone de ouvido Sony;Pauline Kelly;l;p
+2025-04-17 04:05:24.777447;1106;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Marion Morse;l;p
+2025-04-17 06:39:34.762319;1107;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Marie Aniello;l;p
+2025-04-17 07:53:29.182769;1108;Florianópolis;Tiago Lima;Smartwatch Garmin;Allen Spurlin;l;p
+2025-04-17 08:36:24.511247;1109;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Jame Burke;l;p
+2025-04-17 10:53:29.995717;1110;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Arlene Obrien;l;p
+2025-04-17 11:07:31.574043;1111;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Thomas Duckworth;l;p
+2025-04-17 11:10:34.097704;1112;Florianópolis;Gabriela Santos;Smartwatch Garmin;Krissy Folmar;l;p
+2025-04-17 11:43:23.333379;1113;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Sharen Lau;l;p
+2025-04-18 05:22:26.956762;1114;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Alan Salvador;l;p
+2025-04-18 10:48:24.074490;1115;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Stacy Mudget;l;p
+2025-04-18 14:11:33.887967;1116;Florianópolis;Gabriela Santos;Smartwatch Garmin;Earl Blaise;l;p
+2025-04-18 14:17:30.790785;1117;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Richard Mckee;l;p
+2025-04-19 05:12:27.216943;1118;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Michel Monroe;l;p
+2025-04-19 07:01:32.894811;1119;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Dee Scott;l;p
+2025-04-19 11:36:33.026559;1120;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Mary Davis;l;p
+2025-04-20 07:56:29.994468;1121;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Alfredo Woodson;l;p
+2025-04-20 08:35:24.612114;1122;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Angelica Hoffman;l;p
+2025-04-20 10:57:25.663930;1123;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Scotty Marquis;l;p
+2025-04-20 12:46:32.405064;1124;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Sandra Pointer;l;p
+2025-04-20 12:59:30.986919;1125;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Daniel South;l;p
+2025-04-21 03:57:26.262628;1126;Florianópolis;Tiago Lima;Fone de ouvido Sony;Daniel Washington;l;p
+2025-04-21 09:13:23.918485;1127;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Lauren Edwards;l;p
+2025-04-21 13:20:31.803062;1128;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Cody Brown;l;p
+2025-04-21 13:40:23.483534;1129;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Louise Gibbons;l;p
+2025-04-22 04:36:24.071972;1130;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Albert Jackson;l;p
+2025-04-22 05:50:32.176592;1131;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Robert Yarbrough;l;p
+2025-04-22 06:15:24.721643;1132;São Paulo;Ana Oliveira;Tablet Apple Ipad;Josh Pena;l;p
+2025-04-22 07:35:33.493759;1133;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Lydia Reinkemeyer;l;p
+2025-04-22 08:27:30.814193;1134;São Paulo;Lucas Pereira;Tablet Apple Ipad;John Hoglund;l;p
+2025-04-22 11:43:30.188511;1135;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Karen Coffey;l;p
+2025-04-22 11:49:27.882388;1136;São Paulo;Ana Oliveira;Fone de ouvido Sony;Harold Wallace;l;p
+2025-04-22 12:11:30.209193;1137;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Ronald Vasquez;l;p
+2025-04-22 13:45:26.237630;1138;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Kenneth Lawrence;l;p
+2025-04-23 12:34:25.125324;1139;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Brian Foutch;l;p
+2025-04-24 12:06:30.128830;1140;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Joseph Martinez;l;p
+2025-04-24 13:48:25.492409;1141;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Ryan Johnson;l;p
+2025-04-24 14:09:30.343833;1142;Florianópolis;Tiago Lima;Fone de ouvido Sony;Maria Stabler;l;p
+2025-04-25 05:36:33.763935;1143;Florianópolis;Gabriela Santos;Smartwatch Garmin;Kenneth Maestas;l;p
+2025-04-25 06:05:23.463362;1144;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Leona Wagner;l;p
+2025-04-25 07:21:25.613893;1145;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Candy Sanders;l;p
+2025-04-25 08:15:24.221434;1146;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Peter Bartley;l;p
+2025-04-25 09:10:28.328676;1147;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Marsha Rodriguez;l;p
+2025-04-26 04:05:27.176469;1148;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Cornelia Grady;l;p
+2025-04-26 05:19:28.725302;1149;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Ruben Suarez;l;p
+2025-04-26 05:48:31.196521;1150;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Albert Judd;l;p
+2025-04-26 06:01:32.668903;1151;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Kevin Newton;l;p
+2025-04-26 06:52:32.284994;1152;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Debra Allen;l;p
+2025-04-26 09:24:33.136188;1153;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Victor Miller;l;p
+2025-04-26 10:13:24.350574;1154;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Amy Matthews;l;p
+2025-04-26 10:44:27.729396;1155;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Dominic Songer;l;p
+2025-04-27 05:56:34.220533;1156;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Raymond Ginsburg;l;p
+2025-04-27 07:05:30.265885;1157;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Mary Timms;l;p
+2025-04-27 08:48:24.589730;1158;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Carol Bardon;l;p
+2025-04-27 08:57:26.222399;1159;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Kendrick Thomas;l;p
+2025-04-27 13:01:31.573050;1160;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Alan Messer;l;p
+2025-04-28 04:17:32.893287;1161;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Debra Coronado;l;p
+2025-04-28 05:52:31.109354;1162;São Paulo;Ana Oliveira;Fone de ouvido Sony;Michael Henrick;l;p
+2025-04-28 10:05:30.420080;1163;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Lena Hymel;l;p
+2025-04-28 13:10:24.406976;1164;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Sidney Shaner;l;p
+2025-04-28 13:17:32.233765;1165;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Victor Jones;l;p
+2025-04-28 13:22:23.089956;1166;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Anna Ashley;l;p
+2025-04-28 13:23:32.010672;1167;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Julia Lanterman;l;p
+2025-04-28 13:43:32.619285;1168;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Donald White;l;p
+2025-04-28 14:14:26.244894;1169;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Nancy Cattaneo;l;p
+2025-04-29 04:42:31.077421;1170;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Sandra Rendall;l;p
+2025-04-29 05:03:28.552130;1171;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;James Willard;l;p
+2025-04-29 10:35:27.171928;1172;Florianópolis;Tiago Lima;Fone de ouvido Sony;Mary Gehring;l;p
+2025-04-30 03:57:31.197870;1173;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Michelle Kuhns;l;p
+2025-04-30 06:44:27.803205;1174;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Chris Hardison;l;p
+2025-04-30 09:29:32.967927;1175;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Kim Walker;l;p
+2025-04-30 10:53:31.717746;1176;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Madeline Boeke;l;p
+2025-05-01 03:55:26.412091;1177;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Betty Young;l;p
+2025-05-01 04:46:34.063661;1178;Florianópolis;Tiago Lima;Smartwatch Garmin;Adrian Bryant;l;p
+2025-05-01 05:58:28.586897;1179;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Willie Sowers;l;p
+2025-05-01 09:28:27.957684;1180;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;John Wylie;l;p
+2025-05-01 13:19:34.646905;1181;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Karen Romero;l;p
+2025-05-01 14:09:27.854793;1182;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Maris Smith;l;p
+2025-05-02 03:47:34.701362;1183;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;James Dee;l;p
+2025-05-02 07:39:25.676389;1184;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Anissa Victorero;l;p
+2025-05-02 08:01:24.404037;1185;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Maria Parton;l;p
+2025-05-02 11:14:31.960515;1186;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Harry Garcia;l;p
+2025-05-03 09:37:26.051930;1187;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Cary Ashley;l;p
+2025-05-03 09:46:33.075374;1188;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Ethel Rex;l;p
+2025-05-03 11:18:32.733862;1189;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Albert Kendrick;l;p
+2025-05-03 11:26:34.090058;1190;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Lowell Snipes;l;p
+2025-05-03 13:16:29.223179;1191;São Paulo;Lucas Pereira;Fone de ouvido Sony;Phyllis Matthews;l;p
+2025-05-04 03:31:23.596601;1192;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Lauren Bolling;l;p
+2025-05-04 06:47:34.668997;1193;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Herminia Nicole;l;p
+2025-05-04 07:06:27.801991;1194;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;John Dodson;l;p
+2025-05-04 07:28:23.992821;1195;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Craig Gorsuch;l;p
+2025-05-04 08:12:31.205916;1196;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;John Hess;l;p
+2025-05-04 08:41:33.962454;1197;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;John Adams;l;p
+2025-05-04 09:09:29.113671;1198;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Patricia Maze;l;p
+2025-05-04 09:35:27.882262;1199;São Paulo;Lucas Pereira;Fone de ouvido Sony;Barbara Bailey;l;p
+2025-05-04 09:46:33.134152;1200;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Bruce Cody;l;p
+2025-05-04 10:40:30.004249;1201;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Heidi Guercio;l;p
+2025-05-04 12:16:27.612079;1202;Florianópolis;Tiago Lima;Fone de ouvido Sony;Brian Conley;l;p
+2025-05-04 12:16:34.626629;1203;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;John Shelton;l;p
+2025-05-04 13:21:25.735959;1204;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Juanita Herz;l;p
+2025-05-04 13:53:32.611798;1205;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;William Simpkins;l;p
+2025-05-05 03:36:25.761283;1206;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Ralph Pfost;l;p
+2025-05-05 05:11:27.411098;1207;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Gloria Mattox;l;p
+2025-05-05 06:50:29.100064;1208;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Verline Twiford;l;p
+2025-05-05 07:10:25.137745;1209;Florianópolis;Tiago Lima;Fone de ouvido Sony;Andrew Clay;l;p
+2025-05-05 09:28:33.753587;1210;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Jose Medrano;l;p
+2025-05-06 04:02:24.667865;1211;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Martin Balderrama;l;p
+2025-05-06 05:46:27.475395;1212;Florianópolis;Gabriela Santos;Smartwatch Garmin;Holly Morin;l;p
+2025-05-06 05:57:26.221965;1213;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Richard Hatfield;l;p
+2025-05-06 06:15:32.404658;1214;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Brady Walker;l;p
+2025-05-06 09:03:27.850047;1215;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Francis Garza;l;p
+2025-05-06 09:44:31.069871;1216;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Jo Silver;l;p
+2025-05-07 03:35:33.408174;1217;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Jeanne Shaw;l;p
+2025-05-07 04:46:34.627542;1218;São Paulo;Lucas Pereira;Tablet Apple Ipad;Helen Pemberton;l;p
+2025-05-07 05:38:25.716328;1219;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Richard May;l;p
+2025-05-07 11:09:26.095494;1220;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Robert Arnold;l;p
+2025-05-07 12:28:23.484275;1221;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Michael Martin;l;p
+2025-05-08 03:28:31.492815;1222;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Sheila Morgan;l;p
+2025-05-08 05:36:28.906509;1223;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Terrell Wolfrom;l;p
+2025-05-08 06:06:32.340599;1224;Florianópolis;Tiago Lima;Fone de ouvido Sony;Ricardo Whipple;l;p
+2025-05-08 08:52:32.359671;1225;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Donald Cole;l;p
+2025-05-08 10:50:33.253355;1226;Florianópolis;Tiago Lima;Fone de ouvido Sony;James Dodds;l;p
+2025-05-08 11:10:30.273412;1227;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Jeremiah Sevigny;l;p
+2025-05-08 11:25:23.118893;1228;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Hope Clum;l;p
+2025-05-09 04:31:27.306873;1229;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Janie Gibbons;l;p
+2025-05-09 08:31:24.623421;1230;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Mirna Dunnaway;l;p
+2025-05-09 11:33:25.228550;1231;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Barbara Brown;l;p
+2025-05-09 12:13:23.479411;1232;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Linda Garcia;l;p
+2025-05-09 14:10:33.619474;1233;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Kathleen Morgan;l;p
+2025-05-10 06:04:33.870770;1234;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Rose Babin;l;p
+2025-05-10 09:00:33.147164;1235;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Ryan Scherr;l;p
+2025-05-10 10:53:31.320926;1236;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Sally Boggs;l;p
+2025-05-10 11:45:32.177221;1237;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Gretchen Grover;l;p
+2025-05-10 12:24:31.653905;1238;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Tracy Freeman;l;p
+2025-05-10 12:33:23.118263;1239;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Darrell Harvey;l;p
+2025-05-11 04:08:29.049191;1240;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Carmen Campbell;l;p
+2025-05-11 04:43:34.406047;1241;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Eric Crofts;l;p
+2025-05-11 05:20:26.882431;1242;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Angela Coffey;l;p
+2025-05-11 07:45:27.957392;1243;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Frances Vasquez;l;p
+2025-05-11 09:28:27.108041;1244;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Katherine Lucia;l;p
+2025-05-12 06:07:27.765340;1245;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;James Stewart;l;p
+2025-05-12 06:57:24.350253;1246;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Stephen Mann;l;p
+2025-05-12 08:01:30.484285;1247;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Pablo Fincher;l;p
+2025-05-12 09:27:24.575251;1248;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Richard Castro;l;p
+2025-05-12 12:38:31.277090;1249;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Madonna Arnold;l;p
+2025-05-12 13:39:27.649015;1250;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Lisa Shepherd;l;p
+2025-05-13 06:43:27.410794;1251;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Shirley Parker;l;p
+2025-05-13 08:01:27.221478;1252;São Paulo;Lucas Pereira;Fone de ouvido Sony;Stanley Redman;l;p
+2025-05-13 09:50:23.469016;1253;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Bill Williams;l;p
+2025-05-13 10:00:30.961118;1254;São Paulo;Lucas Pereira;Smartwatch Garmin;Doyle Wilson;l;p
+2025-05-13 10:56:28.066862;1255;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Reginald Jackson;l;p
+2025-05-13 11:22:28.153363;1256;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Monte Wardinsky;l;p
+2025-05-14 06:36:29.283589;1257;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Gene Engebretson;l;p
+2025-05-14 07:02:32.730970;1258;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Camellia Davis;l;p
+2025-05-14 08:50:31.801166;1259;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Rosanna Bradley;l;p
+2025-05-14 09:10:27.184211;1260;São Paulo;Lucas Pereira;Smartwatch Garmin;Michael Carbaugh;l;p
+2025-05-14 12:28:26.242613;1261;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Maria Hansen;l;p
+2025-05-14 12:37:27.410931;1262;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Antonio Gonzalez;l;p
+2025-05-15 04:09:27.653083;1263;São Paulo;Lucas Pereira;Notebook Dell Inspiron;John Plumlee;l;p
+2025-05-15 04:11:26.895968;1264;Florianópolis;Tiago Lima;Smartwatch Garmin;Gerald Bednarczyk;l;p
+2025-05-15 05:46:33.190218;1265;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Fannie Womble;l;p
+2025-05-15 08:54:33.479313;1266;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Jackie Rudolph;l;p
+2025-05-15 09:04:25.480440;1267;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Renate Rocker;l;p
+2025-05-15 10:12:34.525665;1268;São Paulo;Ana Oliveira;Fone de ouvido Sony;William Brantley;l;p
+2025-05-15 12:56:24.266470;1269;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Jill Sobieski;l;p
+2025-05-15 14:17:28.796570;1270;São Paulo;Ana Oliveira;Tablet Apple Ipad;Linda Murphy;l;p
+2025-05-16 05:06:34.321667;1271;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;John Walthall;l;p
+2025-05-16 09:45:28.215621;1272;Porto Alegre;Mariana Gomes;Smartwatch Garmin;John Wueste;l;p
+2025-05-16 11:49:34.699389;1273;Florianópolis;Tiago Lima;Fone de ouvido Sony;Rodney Cortez;l;p
+2025-05-16 14:23:25.954631;1274;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Santos Pearce;l;p
+2025-05-17 05:48:31.099025;1275;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Kay Robinson;l;p
+2025-05-17 10:26:32.763987;1276;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Jon Castro;l;p
+2025-05-17 12:18:23.866016;1277;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Brain Marvin;l;p
+2025-05-17 12:42:32.112019;1278;Florianópolis;Gabriela Santos;Smartwatch Garmin;Lee Gear;l;p
+2025-05-18 07:51:31.197714;1279;São Paulo;Lucas Pereira;Smartwatch Garmin;Eleanor Johnson;l;p
+2025-05-18 08:19:24.028845;1280;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Sheryl Hudson;l;p
+2025-05-18 13:15:32.364328;1281;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Evelyn Stacy;l;p
+2025-05-19 05:43:26.601693;1282;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Marie Johnson;l;p
+2025-05-19 13:23:23.941288;1283;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Patrick Boyd;l;p
+2025-05-20 04:42:27.794153;1284;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Wilma Morales;l;p
+2025-05-20 09:26:27.804969;1285;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Anne Bird;l;p
+2025-05-20 10:01:32.100799;1286;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Tammy Turberville;l;p
+2025-05-20 10:07:33.359702;1287;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Linda Crawford;l;p
+2025-05-20 11:34:27.188421;1288;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Marcus Bame;l;p
+2025-05-20 12:20:27.100678;1289;São Paulo;Lucas Pereira;Smartwatch Garmin;Ronald Moss;l;p
+2025-05-20 13:20:32.237595;1290;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Steven Baker;l;p
+2025-05-20 14:16:33.762741;1291;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Kristen Colvin;l;p
+2025-05-21 06:16:28.052688;1292;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Myrtle Verge;l;p
+2025-05-21 14:17:28.900061;1293;São Paulo;Ana Oliveira;Fone de ouvido Sony;Patricia Whalen;l;p
+2025-05-22 04:17:26.243903;1294;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Laura James;l;p
+2025-05-22 08:36:25.144951;1295;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Heather Sandoval;l;p
+2025-05-22 09:18:32.741055;1296;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Wayne Johnson;l;p
+2025-05-22 13:28:23.960064;1297;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Patsy Asher;l;p
+2025-05-22 13:53:33.017350;1298;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Frank Childers;l;p
+2025-05-23 04:45:25.714131;1299;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Alfredo Pollock;l;p
+2025-05-23 06:40:28.328459;1300;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Antonio Smith;l;p
+2025-05-23 07:55:34.404596;1301;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Aline Young;l;p
+2025-05-23 09:22:32.224887;1302;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Katherine Richards;l;p
+2025-05-23 09:42:24.763412;1303;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Jason Hurd;l;p
+2025-05-23 10:11:27.995283;1304;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Georgia Brown;l;p
+2025-05-23 11:13:31.492365;1305;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Dallas Hawkins;l;p
+2025-05-24 05:50:31.458243;1306;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Claire Day;l;p
+2025-05-24 10:45:28.923826;1307;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Staci Piper;l;p
+2025-05-24 12:57:27.406839;1308;Florianópolis;Tiago Lima;Smartwatch Garmin;Joseph Williamson;l;p
+2025-05-24 13:22:32.129586;1309;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Lucy Mott;l;p
+2025-05-24 14:17:34.557379;1310;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Brenda Nerbonne;l;p
+2025-05-25 03:51:32.895442;1311;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Earl Langley;l;p
+2025-05-25 07:50:31.211367;1312;São Paulo;Ana Oliveira;Smartwatch Garmin;James Thompson;l;p
+2025-05-25 08:44:31.014739;1313;São Paulo;Lucas Pereira;Smartwatch Garmin;John Terwilliger;l;p
+2025-05-25 12:26:29.098976;1314;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Charles Perry;l;p
+2025-05-25 13:26:25.756253;1315;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Dorthy Bolen;l;p
+2025-05-26 03:40:34.280440;1316;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Elizabeth Taylor;l;p
+2025-05-26 09:29:30.874733;1317;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Deborah Espinoza;l;p
+2025-05-26 12:10:34.009044;1318;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Pamela Anderson;l;p
+2025-05-26 13:50:28.962286;1319;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;William Buzzard;l;p
+2025-05-26 14:22:33.478887;1320;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Sharon Foster;l;p
+2025-05-27 05:30:23.689309;1321;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Kimberly Oliver;l;p
+2025-05-27 05:45:27.331984;1322;São Paulo;Ana Oliveira;Tablet Apple Ipad;Betty Mason;l;p
+2025-05-27 07:06:29.177856;1323;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Ruby Irwin;l;p
+2025-05-27 11:34:33.257769;1324;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Scott Marrero;l;p
+2025-05-27 11:39:28.926486;1325;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Thelma Castanada;l;p
+2025-05-27 12:49:27.959201;1326;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Paul Reamy;l;p
+2025-05-28 08:34:26.395004;1327;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Elizabeth Johnson;l;p
+2025-05-28 08:36:29.688523;1328;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Roger Duckworth;l;p
+2025-05-28 10:34:26.242286;1329;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Perry Gonzalez;l;p
+2025-05-29 04:28:30.016324;1330;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Carl Jackson;l;p
+2025-05-29 09:54:26.420666;1331;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Theresa Mahler;l;p
+2025-05-29 10:48:27.526117;1332;São Paulo;Lucas Pereira;Tablet Apple Ipad;George Honaker;l;p
+2025-05-29 11:47:28.558540;1333;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Jason Reid;l;p
+2025-05-29 12:39:33.582048;1334;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Ron Paige;l;p
+2025-05-30 05:31:25.157284;1335;São Paulo;Lucas Pereira;Tablet Apple Ipad;Rosa Bourland;l;p
+2025-05-30 06:14:30.697632;1336;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Betty Channell;l;p
+2025-05-30 14:07:31.367293;1337;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Jacob Calo;l;p
+2025-05-31 05:17:24.284653;1338;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Miriam Pendleton;l;p
+2025-05-31 07:33:30.412044;1339;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;James Lott;l;p
+2025-05-31 07:56:25.956754;1340;Florianópolis;Tiago Lima;Fone de ouvido Sony;Louis Vrabel;l;p
+2025-05-31 08:28:27.736666;1341;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Joel Prescott;l;p
+2025-05-31 08:50:34.311318;1342;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Joshua Belanger;l;p
+2025-05-31 11:25:34.218856;1343;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;James Nelson;l;p
+2025-05-31 13:57:25.666134;1344;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Linda Torres;l;p
+2025-06-01 03:43:24.506522;1345;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Susan Ashton;l;p
+2025-06-01 05:56:31.362430;1346;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Donald Cloyd;l;p
+2025-06-01 09:05:34.170599;1347;Florianópolis;Tiago Lima;Fone de ouvido Sony;Savannah Dycus;l;p
+2025-06-01 12:30:29.223618;1348;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Maria Virgilio;l;p
+2025-06-02 04:12:24.565377;1349;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Jesus Glantz;l;p
+2025-06-02 05:02:26.456720;1350;Florianópolis;Tiago Lima;Fone de ouvido Sony;Susan Gunther;l;p
+2025-06-02 10:58:23.371004;1351;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Tyler Esche;l;p
+2025-06-02 13:15:24.223152;1352;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Sandra Androlewicz;l;p
+2025-06-03 12:27:29.547389;1353;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Leon Mccartt;l;p
+2025-06-04 04:52:31.493028;1354;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Jasmin Gill;l;p
+2025-06-04 05:13:27.521552;1355;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Diane Morrison;l;p
+2025-06-04 06:40:29.188739;1356;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Myrtle Gonzalez;l;p
+2025-06-04 08:47:32.844834;1357;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Nancy Rosario;l;p
+2025-06-04 09:28:31.532798;1358;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Jerry David;l;p
+2025-06-04 11:59:34.144421;1359;São Paulo;Ana Oliveira;Smartwatch Garmin;Mattie Johnson;l;p
+2025-06-04 13:28:24.516344;1360;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;David Pape;l;p
+2025-06-05 05:28:34.144744;1361;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Rita Hall;l;p
+2025-06-05 07:05:30.595622;1362;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Jeremy Stallsworth;l;p
+2025-06-05 07:46:29.099692;1363;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Michael Dickerson;l;p
+2025-06-05 08:12:27.334688;1364;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Alyson Strickland;l;p
+2025-06-05 13:38:27.231141;1365;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Lois Berwick;l;p
+2025-06-06 05:18:23.430718;1366;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Mike Dennison;l;p
+2025-06-06 10:16:33.027037;1367;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Kenneth Mayweather;l;p
+2025-06-06 12:11:32.893099;1368;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Bernard Smith;l;p
+2025-06-06 12:59:33.762373;1369;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Micheal Chandler;l;p
+2025-06-06 14:10:30.350515;1370;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Brian Johnson;l;p
+2025-06-07 05:04:27.052532;1371;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Harry Smith;l;p
+2025-06-07 07:04:28.399944;1372;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Colin Pohl;l;p
+2025-06-07 08:37:32.729728;1373;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Nathaniel Mcclellan;l;p
+2025-06-07 10:24:25.030754;1374;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Crystal Edwards;l;p
+2025-06-07 13:26:23.328197;1375;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Kathy Ferguson;l;p
+2025-06-07 14:16:24.301142;1376;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Terri Milam;l;p
+2025-06-08 04:41:30.090623;1377;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Ok Perez;l;p
+2025-06-08 06:58:33.606324;1378;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Scott Bohannon;l;p
+2025-06-08 08:51:28.309152;1379;São Paulo;Ana Oliveira;Tablet Apple Ipad;Florence Warren;l;p
+2025-06-08 14:27:23.915524;1380;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Cecelia Mitchell;l;p
+2025-06-09 04:49:30.937717;1381;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Karl Gard;l;p
+2025-06-09 05:23:27.895636;1382;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Sharron Sayegh;l;p
+2025-06-09 06:05:28.329636;1383;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Martha Grosvenor;l;p
+2025-06-09 06:48:24.571788;1384;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Christopher Deering;l;p
+2025-06-09 08:17:26.345219;1385;São Paulo;Lucas Pereira;Smartwatch Garmin;Jennette Schappert;l;p
+2025-06-09 09:18:33.183707;1386;São Paulo;Lucas Pereira;Tablet Apple Ipad;Maryann Tuttle;l;p
+2025-06-09 10:00:23.863471;1387;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Jamaal Wells;l;p
+2025-06-09 11:13:27.023358;1388;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Zelma Cambre;l;p
+2025-06-09 12:35:26.473952;1389;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Debra Dones;l;p
+2025-06-09 13:51:27.050674;1390;Florianópolis;Tiago Lima;Tablet Apple Ipad;Ruth Morley;l;p
+2025-06-09 14:03:27.309458;1391;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Patrick Pulliam;l;p
+2025-06-10 04:06:33.735851;1392;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Loretta Phelan;l;p
+2025-06-10 07:42:29.027370;1393;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Patricia Alvarez;l;p
+2025-06-10 09:24:25.612856;1394;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Ruth Jacobs;l;p
+2025-06-10 10:22:23.552155;1395;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;David Malstrom;l;p
+2025-06-10 12:19:23.599664;1396;São Paulo;Ana Oliveira;Tablet Apple Ipad;Alberta Reid;l;p
+2025-06-11 08:07:27.446279;1397;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Martin Donaldson;l;p
+2025-06-11 08:29:25.710962;1398;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Steven Aviles;l;p
+2025-06-11 10:07:32.359917;1399;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Kelly Prado;l;p
+2025-06-11 12:38:29.696841;1400;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Michelle Davies;l;p
+2025-06-12 04:04:31.380036;1401;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Aaron Brunson;l;p
+2025-06-12 04:13:24.687807;1402;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Charley Kahill;l;p
+2025-06-12 05:52:28.815868;1403;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Adelina Hamrick;l;p
+2025-06-12 08:16:25.311904;1404;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Richard Lomanto;l;p
+2025-06-12 09:06:32.188288;1405;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Curtis Anderson;l;p
+2025-06-12 09:29:24.372333;1406;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Lisa Sande;l;p
+2025-06-12 09:58:32.254307;1407;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Daniel Hill;l;p
+2025-06-12 13:15:30.102781;1408;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;William Benesh;l;p
+2025-06-12 13:32:26.051579;1409;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Rosa Davis;l;p
+2025-06-13 06:17:27.461171;1410;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;James Funston;l;p
+2025-06-13 07:01:31.980971;1411;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Joyce Whitaker;l;p
+2025-06-13 09:52:34.629665;1412;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Barbara Church;l;p
+2025-06-13 10:34:33.524395;1413;Florianópolis;Gabriela Santos;Fone de ouvido Sony;David Ladieu;l;p
+2025-06-14 04:54:25.138526;1414;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Mitchell Seals;l;p
+2025-06-14 06:28:29.369782;1415;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Christine Heath;l;p
+2025-06-14 06:31:28.483691;1416;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Tracy Hajduk;l;p
+2025-06-14 07:39:28.453482;1417;Florianópolis;Gabriela Santos;Smartwatch Garmin;Jenny Wilson;l;p
+2025-06-14 09:46:24.975571;1418;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Ronald Kiani;l;p
+2025-06-14 10:31:23.267692;1419;São Paulo;Lucas Pereira;Fone de ouvido Sony;Mark Taylor;l;p
+2025-06-14 12:40:33.686966;1420;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Milton Woock;l;p
+2025-06-14 13:15:28.952031;1421;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Sharon Cortez;l;p
+2025-06-15 03:50:31.533795;1422;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Muriel Eckman;l;p
+2025-06-15 05:54:23.599096;1423;São Paulo;Ana Oliveira;Smartwatch Garmin;Larry Baker;l;p
+2025-06-15 09:45:34.056596;1424;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Robert Knapp;l;p
+2025-06-15 10:36:32.817546;1425;Florianópolis;Tiago Lima;Smartwatch Garmin;William Jung;l;p
+2025-06-15 11:32:26.242853;1426;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Paul Sanderson;l;p
+2025-06-16 04:30:33.768474;1427;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Anthony Radune;l;p
+2025-06-16 05:42:24.765396;1428;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Caroline Pamplin;l;p
+2025-06-16 05:43:27.884814;1429;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;James Morgan;l;p
+2025-06-16 07:04:26.396260;1430;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Richard Rodriguez;l;p
+2025-06-16 12:24:27.651142;1431;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Alfred Rico;l;p
+2025-06-17 06:33:32.032565;1432;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Robert Carlson;l;p
+2025-06-17 07:02:27.805832;1433;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;James Gulley;l;p
+2025-06-17 10:36:27.215263;1434;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Terry Flanagan;l;p
+2025-06-17 11:30:33.159799;1435;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Lucia Eldredge;l;p
+2025-06-17 12:10:25.166198;1436;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Amy Lazewski;l;p
+2025-06-17 13:13:30.830652;1437;São Paulo;Lucas Pereira;Fone de ouvido Sony;Kelly Thompson;l;p
+2025-06-18 05:02:24.921529;1438;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;John Gregory;l;p
+2025-06-18 07:05:26.218210;1439;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Margaret Martin;l;p
+2025-06-18 07:40:33.553275;1440;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Harold Willie;l;p
+2025-06-18 09:33:27.998047;1441;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Lorene Pennisi;l;p
+2025-06-19 08:31:25.399514;1442;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Wayne Bystron;l;p
+2025-06-19 09:58:34.405535;1443;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Sheree Reed;l;p
+2025-06-19 13:02:26.408060;1444;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Roberta Quinonez;l;p
+2025-06-19 13:43:26.407716;1445;Florianópolis;Gabriela Santos;Tablet Apple Ipad;William Butler;l;p
+2025-06-20 05:39:32.605690;1446;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Scott Noel;l;p
+2025-06-20 06:25:26.298373;1447;Florianópolis;Tiago Lima;Fone de ouvido Sony;Tammy Brown;l;p
+2025-06-20 06:32:27.123442;1448;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Etta Brice;l;p
+2025-06-20 07:44:34.598712;1449;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Randy Brewer;l;p
+2025-06-20 08:22:31.660982;1450;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;David Cain;l;p
+2025-06-20 13:26:30.048606;1451;São Paulo;Ana Oliveira;Smartwatch Garmin;Elba Toddy;l;p
+2025-06-21 07:10:34.609205;1452;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Helena Totten;l;p
+2025-06-21 08:38:32.969948;1453;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Donald Gentry;l;p
+2025-06-21 12:00:29.189269;1454;Florianópolis;Gabriela Santos;Tablet Apple Ipad;John Jurgenson;l;p
+2025-06-21 12:47:26.615363;1455;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Andrew Christian;l;p
+2025-06-21 14:20:33.133773;1456;Florianópolis;Tiago Lima;Notebook Dell Inspiron;James Berry;l;p
+2025-06-22 04:39:31.921292;1457;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Bev Jorstad;l;p
+2025-06-22 07:17:25.926249;1458;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;James Taylor;l;p
+2025-06-22 09:48:34.599412;1459;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Michael Moran;l;p
+2025-06-22 10:24:27.135601;1460;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Mary Granthan;l;p
+2025-06-22 12:06:33.767534;1461;São Paulo;Ana Oliveira;Smartwatch Garmin;Sandra Coleman;l;p
+2025-06-23 06:41:32.967493;1462;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Allen Walsh;l;p
+2025-06-23 11:54:29.050668;1463;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Jerry Noel;l;p
+2025-06-24 03:33:24.574736;1464;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Charles Bean;l;p
+2025-06-24 04:41:32.823893;1465;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Kevin Cresci;l;p
+2025-06-24 04:56:27.862618;1466;Florianópolis;Tiago Lima;Tablet Apple Ipad;Linda Halm;l;p
+2025-06-24 05:06:24.281756;1467;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Robert Jones;l;p
+2025-06-24 06:36:24.685292;1468;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Douglas Shaw;l;p
+2025-06-24 07:18:32.722275;1469;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Anne Nakagawa;l;p
+2025-06-24 08:28:29.970674;1470;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Herbert Core;l;p
+2025-06-25 03:37:27.756723;1471;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Lazaro Agosto;l;p
+2025-06-25 09:18:33.435701;1472;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Oscar Nelson;l;p
+2025-06-25 10:33:28.899603;1473;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Gary Marks;l;p
+2025-06-25 11:20:29.142241;1474;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Mary Fowler;l;p
+2025-06-26 04:16:26.602466;1475;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Gregory Hale;l;p
+2025-06-26 05:09:32.921211;1476;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Gregory Risley;l;p
+2025-06-26 05:30:34.188520;1477;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Richard Henderson;l;p
+2025-06-26 06:56:29.169350;1478;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Maxwell Farrior;l;p
+2025-06-26 07:01:30.027295;1479;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Bruce Blatz;l;p
+2025-06-26 10:09:23.664585;1480;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Dennis Stacy;l;p
+2025-06-26 10:45:23.963808;1481;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Diane Gallagher;l;p
+2025-06-26 12:33:32.619069;1482;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Mary Lewis;l;p
+2025-06-27 08:03:27.932663;1483;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Andrea Khoury;l;p
+2025-06-27 13:22:24.552022;1484;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Thelma Sacco;l;p
+2025-06-28 05:42:25.755533;1485;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Shirley Reyes;l;p
+2025-06-28 08:39:33.851869;1486;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Kia Brennan;l;p
+2025-06-28 09:01:27.609473;1487;São Paulo;Lucas Pereira;Fone de ouvido Sony;Diana Edmonds;l;p
+2025-06-28 10:04:32.592353;1488;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Mary Douglas;l;p
+2025-06-28 11:05:24.843544;1489;São Paulo;Lucas Pereira;Smartwatch Garmin;Peter Well;l;p
+2025-06-28 13:15:30.048278;1490;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Arthur Porter;l;p
+2025-06-29 04:08:32.590672;1491;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Shari Tipton;l;p
+2025-06-29 05:05:27.230496;1492;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Justin Goodman;l;p
+2025-06-29 07:19:30.476425;1493;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Carol Bucy;l;p
+2025-06-29 10:00:29.883788;1494;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Mariam Jackson;l;p
+2025-06-29 12:31:31.194899;1495;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Richard Dietrich;l;p
+2025-06-29 13:33:28.743132;1496;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Rebecca Dykes;l;p
+2025-06-29 13:42:31.150210;1497;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Steve Assante;l;p
+2025-06-29 14:16:25.372559;1498;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Susan Barnette;l;p
+2025-06-30 04:29:32.730669;1499;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Yolanda Thompson;l;p
+2025-06-30 04:43:26.852303;1500;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Tracy Turner;l;p
+2025-06-30 06:38:27.125682;1501;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Ruth Tubbs;l;p
+2025-06-30 08:49:25.926507;1502;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Delores Collins;l;p
+2025-06-30 11:29:27.850427;1503;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Robert Carty;l;p
+2025-06-30 11:47:27.779396;1504;São Paulo;Ana Oliveira;Tablet Apple Ipad;Joan Wolfe;l;p
+2025-06-30 13:59:30.867803;1505;São Paulo;Ana Oliveira;Fone de ouvido Sony;Andrew Gillespie;l;p
+2025-07-01 08:11:29.041143;1506;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;James Golden;l;p
+2025-07-01 10:40:32.146073;1507;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Martin Strayer;l;p
+2025-07-02 10:02:27.218388;1508;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Irene Harlan;l;p
+2025-07-02 10:29:33.761798;1509;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Mike Gibson;l;p
+2025-07-02 10:34:26.849475;1510;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;John Newberry;l;p
+2025-07-02 11:27:27.171820;1511;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Sandra Smith;l;p
+2025-07-02 12:12:32.671707;1512;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Sally Downing;l;p
+2025-07-02 13:47:27.168970;1513;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Linda Waggoner;l;p
+2025-07-03 04:02:29.675971;1514;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Wayne Cobb;l;p
+2025-07-03 05:02:29.848801;1515;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Jeanette Cooper;l;p
+2025-07-03 07:56:28.547206;1516;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Bradley Wilke;l;p
+2025-07-03 09:19:24.358025;1517;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Gary Giffin;l;p
+2025-07-03 09:27:33.465999;1518;Florianópolis;Tiago Lima;Tablet Apple Ipad;Dean Garrett;l;p
+2025-07-03 10:38:26.220971;1519;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Damon Wood;l;p
+2025-07-03 11:14:24.685498;1520;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Elizabeth Sanders;l;p
+2025-07-03 11:25:30.277573;1521;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Katharine Pralle;l;p
+2025-07-03 12:27:24.777181;1522;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Ann Armstrong;l;p
+2025-07-03 13:15:30.872025;1523;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Nathaniel Masters;l;p
+2025-07-04 03:55:24.643502;1524;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Clarence Peckenpaugh;l;p
+2025-07-04 04:44:34.581953;1525;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Norman Rivera;l;p
+2025-07-04 04:53:24.480129;1526;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Margaret Soland;l;p
+2025-07-04 06:46:28.560060;1527;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Jim Marquis;l;p
+2025-07-04 08:20:32.493714;1528;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Roger Garcia;l;p
+2025-07-04 08:48:31.283967;1529;São Paulo;Ana Oliveira;Fone de ouvido Sony;Michael Zweifel;l;p
+2025-07-04 13:13:29.432578;1530;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Carolyn Harmon;l;p
+2025-07-05 04:15:31.014505;1531;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Roberto Sullivan;l;p
+2025-07-05 04:23:27.802728;1532;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Jessica Glover;l;p
+2025-07-05 04:32:31.678760;1533;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Opal Nesslein;l;p
+2025-07-05 06:06:27.877300;1534;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Constance Wilson;l;p
+2025-07-05 07:59:23.886966;1535;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Jeffrey Paul;l;p
+2025-07-05 08:01:30.271489;1536;São Paulo;Lucas Pereira;Tablet Apple Ipad;Christi Sylvester;l;p
+2025-07-05 11:53:23.970075;1537;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Clinton Sult;l;p
+2025-07-05 14:00:32.234057;1538;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;David Martinez;l;p
+2025-07-06 06:57:30.937439;1539;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Miguel Smith;l;p
+2025-07-06 07:14:27.475004;1540;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Juan Smith;l;p
+2025-07-06 10:03:24.910590;1541;Florianópolis;Tiago Lima;Tablet Apple Ipad;Virginia Sanders;l;p
+2025-07-06 11:25:24.565186;1542;São Paulo;Ana Oliveira;Fone de ouvido Sony;David Jackson;l;p
+2025-07-06 14:11:27.884395;1543;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Dawn Dawson;l;p
+2025-07-07 03:33:24.676026;1544;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Doris Townsend;l;p
+2025-07-07 08:02:26.924073;1545;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Dorian Nelson;l;p
+2025-07-07 10:10:30.181998;1546;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Arthur Hall;l;p
+2025-07-07 10:25:34.435396;1547;São Paulo;Lucas Pereira;Tablet Apple Ipad;Sue Byron;l;p
+2025-07-07 11:33:34.057123;1548;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Jason Conn;l;p
+2025-07-07 12:02:32.276131;1549;São Paulo;Ana Oliveira;Smartwatch Garmin;Marjorie Czajkowski;l;p
+2025-07-08 06:59:28.341466;1550;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Irene Leesman;l;p
+2025-07-08 09:34:34.646026;1551;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Claude Rhodes;l;p
+2025-07-08 12:16:31.097574;1552;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Robert Turpin;l;p
+2025-07-09 03:47:33.962607;1553;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Brandon Measheaw;l;p
+2025-07-09 03:51:31.569239;1554;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Gary Pitre;l;p
+2025-07-09 04:29:27.739023;1555;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Bertha Jordan;l;p
+2025-07-09 05:15:32.361460;1556;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Brandy Mackie;l;p
+2025-07-09 09:14:32.518389;1557;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;James Gonzalez;l;p
+2025-07-09 09:25:30.012860;1558;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Frances Novotny;l;p
+2025-07-09 11:59:32.259849;1559;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Benjamin Devine;l;p
+2025-07-10 04:23:29.188581;1560;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Carlos Hernandez;l;p
+2025-07-10 05:03:33.752813;1561;São Paulo;Lucas Pereira;Smartwatch Garmin;Luisa Gill;l;p
+2025-07-10 07:45:33.353363;1562;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Eddie Walton;l;p
+2025-07-10 10:38:31.545871;1563;São Paulo;Lucas Pereira;Smartwatch Garmin;Jeremy Faulkner;l;p
+2025-07-11 04:14:34.092832;1564;São Paulo;Ana Oliveira;Tablet Apple Ipad;Jennifer Kellam;l;p
+2025-07-11 04:24:32.614342;1565;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Lula Love;l;p
+2025-07-11 05:07:23.655415;1566;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Cecil Jacinto;l;p
+2025-07-11 07:50:23.343410;1567;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Lee Bird;l;p
+2025-07-11 13:31:23.577665;1568;Florianópolis;Tiago Lima;Fone de ouvido Sony;Erin Gray;l;p
+2025-07-11 13:58:24.969096;1569;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Isabel Gammons;l;p
+2025-07-11 14:00:34.466221;1570;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Marvin Jones;l;p
+2025-07-12 03:59:34.636924;1571;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Robert Carter;l;p
+2025-07-12 09:30:27.407284;1572;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Sue Lawson;l;p
+2025-07-12 10:18:32.741216;1573;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Rocky Tirey;l;p
+2025-07-12 12:28:32.050109;1574;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Sandy Martel;l;p
+2025-07-12 12:40:25.145332;1575;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Eddie Prado;l;p
+2025-07-13 03:50:33.649334;1576;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Devon Derouen;l;p
+2025-07-13 04:30:30.003945;1577;Florianópolis;Tiago Lima;Fone de ouvido Sony;Thomas Sanchez;l;p
+2025-07-13 08:40:27.688212;1578;São Paulo;Lucas Pereira;Tablet Apple Ipad;Annie Bell;l;p
+2025-07-13 09:29:34.599038;1579;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Julia Perkins;l;p
+2025-07-13 10:37:23.864846;1580;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Mary Boyles;l;p
+2025-07-13 13:25:27.135055;1581;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Janet Lee;l;p
+2025-07-13 13:43:32.493833;1582;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Harry Henson;l;p
+2025-07-14 05:28:34.625002;1583;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;John Thibodeau;l;p
+2025-07-14 06:16:33.609281;1584;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Ronald Rivera;l;p
+2025-07-14 10:06:32.819852;1585;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Michael Botts;l;p
+2025-07-14 11:09:25.713744;1586;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Hazel Jenkins;l;p
+2025-07-14 11:33:31.546807;1587;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Adam Poormon;l;p
+2025-07-14 11:51:34.527503;1588;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Tracy Craig;l;p
+2025-07-14 14:07:26.397838;1589;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Ali Doyle;l;p
+2025-07-15 03:40:32.402409;1590;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Melinda Mcdonald;l;p
+2025-07-15 06:04:26.090883;1591;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Cherryl Mcclure;l;p
+2025-07-15 06:36:26.050320;1592;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Ron Cleveland;l;p
+2025-07-15 07:26:24.285914;1593;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Young Needham;l;p
+2025-07-15 07:49:32.024376;1594;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Ernest Renfrow;l;p
+2025-07-15 08:10:24.218983;1595;Florianópolis;Tiago Lima;Fone de ouvido Sony;Leland Mcclellan;l;p
+2025-07-15 09:25:33.763764;1596;Florianópolis;Tiago Lima;Fone de ouvido Sony;Amanda Simmons;l;p
+2025-07-15 10:51:25.662750;1597;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Annette Moore;l;p
+2025-07-15 11:40:34.577074;1598;São Paulo;Lucas Pereira;Fone de ouvido Sony;John Schulz;l;p
+2025-07-15 13:25:30.989125;1599;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;William Chalmers;l;p
+2025-07-16 05:04:34.627323;1600;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Daniel Welch;l;p
+2025-07-16 05:29:31.805441;1601;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Vernon Robinson;l;p
+2025-07-16 06:09:28.850879;1602;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Milton Privateer;l;p
+2025-07-16 06:57:23.719703;1603;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Jacqueline Patel;l;p
+2025-07-16 12:10:32.450741;1604;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Patricia Geoghegan;l;p
+2025-07-17 04:02:31.919557;1605;São Paulo;Lucas Pereira;Tablet Apple Ipad;Natalie Gilliland;l;p
+2025-07-17 04:15:27.006064;1606;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Linda Pothier;l;p
+2025-07-17 04:42:25.446750;1607;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Paul Lucas;l;p
+2025-07-17 09:59:25.666291;1608;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Douglas Danforth;l;p
+2025-07-17 13:45:28.547050;1609;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Margaret Lewis;l;p
+2025-07-18 05:28:34.132414;1610;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Arthur Macfarland;l;p
+2025-07-18 07:01:29.591852;1611;Florianópolis;Tiago Lima;Fone de ouvido Sony;Arthur Garris;l;p
+2025-07-18 10:00:34.527801;1612;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Joyce Robirds;l;p
+2025-07-18 11:40:31.851457;1613;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Don Spangle;l;p
+2025-07-18 13:41:32.761801;1614;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Mildred Larose;l;p
+2025-07-18 13:42:33.193463;1615;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Ronald Brown;l;p
+2025-07-19 04:24:32.407186;1616;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;John Schmidt;l;p
+2025-07-19 06:13:30.259108;1617;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Mary Santana;l;p
+2025-07-19 08:10:24.642978;1618;São Paulo;Lucas Pereira;Tablet Apple Ipad;Candace Clayton;l;p
+2025-07-19 12:13:33.874036;1619;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Carole Brayman;l;p
+2025-07-19 12:19:25.706646;1620;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Julius Vasquez;l;p
+2025-07-20 04:44:26.344521;1621;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Cornelius Jackson;l;p
+2025-07-20 05:29:28.925028;1622;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Matthew Richards;l;p
+2025-07-20 07:05:27.241239;1623;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Rashida Valenzuela;l;p
+2025-07-20 07:32:31.655254;1624;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Margaret Joiner;l;p
+2025-07-20 07:35:33.485155;1625;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Patricia Cole;l;p
+2025-07-20 07:39:33.897502;1626;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Stacey Taylor;l;p
+2025-07-20 07:44:24.350779;1627;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Keith Rosato;l;p
+2025-07-20 13:34:28.901030;1628;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Arturo Michaelson;l;p
+2025-07-21 05:48:30.413605;1629;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Dwight Rooks;l;p
+2025-07-21 06:34:34.320239;1630;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Linda Lipscomb;l;p
+2025-07-21 07:05:27.674579;1631;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Elizabeth Ackley;l;p
+2025-07-21 07:31:31.897293;1632;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Clarence Stroud;l;p
+2025-07-21 08:50:31.663855;1633;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Frank Fennell;l;p
+2025-07-21 09:50:23.962054;1634;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Arthur Stamper;l;p
+2025-07-21 12:50:32.152909;1635;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Keith Lafleche;l;p
+2025-07-22 07:50:30.959919;1636;Florianópolis;Gabriela Santos;Smartwatch Garmin;Jasper Roman;l;p
+2025-07-22 08:10:28.926123;1637;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Susan Mcdonald;l;p
+2025-07-22 10:09:32.033516;1638;São Paulo;Lucas Pereira;Tablet Apple Ipad;Gloria Vasquez;l;p
+2025-07-22 10:25:27.996652;1639;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Glenn Kenney;l;p
+2025-07-22 10:34:31.801909;1640;Florianópolis;Gabriela Santos;Fone de ouvido Sony;John Purvis;l;p
+2025-07-22 10:58:32.618645;1641;São Paulo;Lucas Pereira;Tablet Apple Ipad;Judith Richards;l;p
+2025-07-23 03:37:23.328650;1642;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Tiffani Cooper;l;p
+2025-07-23 03:50:23.484401;1643;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Richard Tannenbaum;l;p
+2025-07-23 06:15:26.222772;1644;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Ruth Ortega;l;p
+2025-07-23 07:18:23.276927;1645;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Michael Tanner;l;p
+2025-07-23 10:41:23.354013;1646;Florianópolis;Tiago Lima;Smartwatch Garmin;Derek Glover;l;p
+2025-07-23 11:12:27.883982;1647;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Dorothy Jones;l;p
+2025-07-23 12:36:24.521381;1648;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Breana Houston;l;p
+2025-07-23 12:55:34.761927;1649;São Paulo;Lucas Pereira;Smartwatch Garmin;Jerry Fox;l;p
+2025-07-24 03:30:32.619412;1650;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Xiomara Sherrell;l;p
+2025-07-24 05:52:31.280764;1651;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Michael Vogel;l;p
+2025-07-24 09:11:27.240931;1652;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Benjamin Cox;l;p
+2025-07-25 06:07:33.522279;1653;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Michelle Lyons;l;p
+2025-07-25 07:46:31.186699;1654;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Gary Poche;l;p
+2025-07-26 04:12:29.249636;1655;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Cathey Conyer;l;p
+2025-07-26 06:58:31.312280;1656;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Mildred Davis;l;p
+2025-07-26 09:00:33.804990;1657;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Jose Cruzan;l;p
+2025-07-26 10:13:33.164761;1658;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Inez Parm;l;p
+2025-07-27 04:50:30.128582;1659;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Salvador Smith;l;p
+2025-07-27 08:28:31.917453;1660;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Clare Barbour;l;p
+2025-07-28 04:57:29.969760;1661;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Jacob Lake;l;p
+2025-07-28 05:42:33.358813;1662;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Edna Smith;l;p
+2025-07-28 09:18:33.159409;1663;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Oscar Thompson;l;p
+2025-07-28 10:57:32.627292;1664;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Nichole Mcdonald;l;p
+2025-07-29 04:45:28.833407;1665;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Christopher Bell;l;p
+2025-07-29 05:32:29.099565;1666;São Paulo;Lucas Pereira;Smartwatch Garmin;Mary Wilson;l;p
+2025-07-29 06:27:33.686767;1667;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Anita Edwards;l;p
+2025-07-29 08:53:29.766952;1668;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Joseph Jennings;l;p
+2025-07-29 09:58:24.024622;1669;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Timothy Hardison;l;p
+2025-07-29 10:08:31.968955;1670;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Kevin Stratman;l;p
+2025-07-30 06:12:32.275632;1671;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Margaret Harrison;l;p
+2025-07-30 09:12:23.801836;1672;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Joleen Collins;l;p
+2025-07-30 14:14:31.960650;1673;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Wayne Meza;l;p
+2025-07-31 04:01:33.873718;1674;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Andrew Richardson;l;p
+2025-07-31 07:28:27.207186;1675;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Fred Green;l;p
+2025-07-31 09:34:32.223992;1676;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Courtney Wong;l;p
+2025-07-31 12:47:27.129004;1677;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Wesley Mallon;l;p
+2025-08-01 04:55:27.412543;1678;São Paulo;Lucas Pereira;Tablet Apple Ipad;Jon Gercak;l;p
+2025-08-01 10:19:31.893176;1679;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Anamaria Haskins;l;p
+2025-08-01 10:47:30.875259;1680;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Veronica Baker;l;p
+2025-08-02 05:14:27.099254;1681;São Paulo;Lucas Pereira;Fone de ouvido Sony;Dawn Dailey;l;p
+2025-08-03 03:59:25.984486;1682;Florianópolis;Tiago Lima;Smartwatch Garmin;Tina Jacobs;l;p
+2025-08-03 05:37:32.128329;1683;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Maria Ouellette;l;p
+2025-08-03 06:07:23.432945;1684;São Paulo;Ana Oliveira;Tablet Apple Ipad;Michael Hosea;l;p
+2025-08-03 07:30:23.951659;1685;São Paulo;Lucas Pereira;Fone de ouvido Sony;Johnathan Pollack;l;p
+2025-08-03 09:03:27.882120;1686;São Paulo;Lucas Pereira;Fone de ouvido Sony;John Bennett;l;p
+2025-08-03 11:38:28.805822;1687;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Ester Eaddy;l;p
+2025-08-03 13:31:31.677644;1688;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Patrick Jackson;l;p
+2025-08-04 04:41:33.580649;1689;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Bertie Black;l;p
+2025-08-04 07:51:30.947367;1690;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Olga Vaughn;l;p
+2025-08-04 08:07:24.479561;1691;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Lillie Martin;l;p
+2025-08-04 08:15:28.552947;1692;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Benjamin Edwards;l;p
+2025-08-04 09:05:24.910756;1693;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Linda Pearson;l;p
+2025-08-04 09:12:30.003786;1694;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Matthew Simmons;l;p
+2025-08-04 12:01:29.545911;1695;Florianópolis;Gabriela Santos;Smartwatch Garmin;Bianca Ramirez;l;p
+2025-08-04 12:17:29.433108;1696;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Julia Leach;l;p
+2025-08-05 03:49:25.610259;1697;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Susan Wilson;l;p
+2025-08-05 04:48:29.544310;1698;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Louise Tapia;l;p
+2025-08-05 06:54:31.052066;1699;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;James Caperton;l;p
+2025-08-05 07:13:29.540694;1700;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Joyce Mcgee;l;p
+2025-08-05 07:57:25.713373;1701;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Kathy Henderson;l;p
+2025-08-05 12:52:31.458853;1702;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Harold Truxler;l;p
+2025-08-05 13:57:34.304407;1703;São Paulo;Ana Oliveira;Fone de ouvido Sony;Henry Cassity;l;p
+2025-08-06 04:42:23.326810;1704;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Elizabeth Dale;l;p
+2025-08-06 05:32:33.354042;1705;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Terry Manning;l;p
+2025-08-06 11:52:33.579612;1706;Florianópolis;Gabriela Santos;Smartwatch Garmin;Jorge Hill;l;p
+2025-08-06 13:55:24.393309;1707;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Barbara Branham;l;p
+2025-08-07 03:46:27.881540;1708;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Shawn Nieves;l;p
+2025-08-07 06:13:28.653265;1709;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Thomas Romero;l;p
+2025-08-07 06:32:25.328865;1710;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Clara Fenelus;l;p
+2025-08-07 12:43:33.618992;1711;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Patrica Moore;l;p
+2025-08-08 04:30:32.134893;1712;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;David Conlon;l;p
+2025-08-08 05:01:27.125385;1713;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Bessie Hunt;l;p
+2025-08-08 06:16:31.613786;1714;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Mark Shotkoski;l;p
+2025-08-08 06:41:32.290451;1715;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Brooks Magsayo;l;p
+2025-08-08 08:53:31.382062;1716;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Marianne Perillo;l;p
+2025-08-08 08:58:32.682058;1717;Florianópolis;Gabriela Santos;Smartwatch Garmin;Minh Ruse;l;p
+2025-08-08 09:53:31.732002;1718;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;William Balmes;l;p
+2025-08-08 11:24:28.974951;1719;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Anthony Keck;l;p
+2025-08-08 13:46:26.413134;1720;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Joseph Simon;l;p
+2025-08-09 08:43:27.326648;1721;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Sandy Toland;l;p
+2025-08-09 10:47:32.673398;1722;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;David Bose;l;p
+2025-08-09 10:49:25.717480;1723;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Gary Taber;l;p
+2025-08-10 04:06:30.277452;1724;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Stephen Martinez;l;p
+2025-08-10 05:55:28.328917;1725;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Elizabeth Manuel;l;p
+2025-08-10 07:59:32.846241;1726;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;David Limmel;l;p
+2025-08-10 12:14:30.128997;1727;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Maria Humphrey;l;p
+2025-08-10 14:17:23.446629;1728;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Regina Gordan;l;p
+2025-08-10 14:25:32.491774;1729;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Carol Parker;l;p
+2025-08-11 03:50:27.209740;1730;São Paulo;Ana Oliveira;Smartwatch Garmin;Kevin Kidder;l;p
+2025-08-11 09:55:32.366079;1731;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Jean Zorra;l;p
+2025-08-11 13:43:28.685539;1732;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Gary Fernando;l;p
+2025-08-11 13:51:27.135372;1733;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Jill Wright;l;p
+2025-08-12 04:33:27.605001;1734;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Suzanne Grubb;l;p
+2025-08-12 05:08:27.609085;1735;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Rachel Allen;l;p
+2025-08-12 07:29:23.734754;1736;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Isabell Lett;l;p
+2025-08-12 11:28:25.660495;1737;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Jerry Limon;l;p
+2025-08-12 13:00:27.106709;1738;Florianópolis;Gabriela Santos;Smartwatch Garmin;Benito Pugh;l;p
+2025-08-13 06:07:25.379047;1739;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Valerie Wilbon;l;p
+2025-08-13 09:03:32.141905;1740;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Katheleen Dorris;l;p
+2025-08-13 12:04:23.637104;1741;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Elvia Hardesty;l;p
+2025-08-14 04:03:23.175886;1742;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Jonathan Sert;l;p
+2025-08-14 05:16:32.138303;1743;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Jarrod Fernandez;l;p
+2025-08-14 05:41:25.142627;1744;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Amanda Hankins;l;p
+2025-08-14 06:44:28.446992;1745;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Linda Compton;l;p
+2025-08-14 07:18:30.395897;1746;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Christine Powell;l;p
+2025-08-14 08:07:28.503001;1747;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;William Wilson;l;p
+2025-08-14 08:24:23.732682;1748;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Melissa Augustine;l;p
+2025-08-14 08:28:30.260038;1749;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Billy Fritsch;l;p
+2025-08-14 12:56:27.642430;1750;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Cynthia Raphael;l;p
+2025-08-15 03:49:30.490166;1751;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Lacey Campoy;l;p
+2025-08-15 06:24:28.652595;1752;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Colette Lawrence;l;p
+2025-08-15 08:17:34.817169;1753;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Karen Keplin;l;p
+2025-08-15 08:50:24.050497;1754;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Maryann Pollack;l;p
+2025-08-15 13:53:24.263685;1755;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Marlene Ochs;l;p
+2025-08-16 03:43:28.898861;1756;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Floyd Lott;l;p
+2025-08-16 04:17:33.523013;1757;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Amanda Alexander;l;p
+2025-08-16 04:21:32.553357;1758;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Stephanie Jackson;l;p
+2025-08-16 05:10:32.493519;1759;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Leon Carter;l;p
+2025-08-16 05:30:32.614743;1760;Florianópolis;Tiago Lima;Smartwatch Garmin;Penelope Lieberman;l;p
+2025-08-16 06:50:33.493352;1761;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Shelia Taylor;l;p
+2025-08-16 07:37:25.083723;1762;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Guillermo Walker;l;p
+2025-08-16 11:14:31.921113;1763;São Paulo;Lucas Pereira;Smartwatch Garmin;Dan Jones;l;p
+2025-08-16 14:12:29.990704;1764;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Jeffrey Mcelhaney;l;p
+2025-08-17 07:19:24.385295;1765;São Paulo;Ana Oliveira;Fone de ouvido Sony;Elmer Hard;l;p
+2025-08-17 08:51:31.658032;1766;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Randall Dowell;l;p
+2025-08-17 09:06:32.042137;1767;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Deanna Matthews;l;p
+2025-08-17 09:29:30.128384;1768;São Paulo;Lucas Pereira;Smartwatch Garmin;Norman Reynolds;l;p
+2025-08-18 08:51:27.206973;1769;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Jennifer Williams;l;p
+2025-08-19 03:59:31.843748;1770;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Ina Lingo;l;p
+2025-08-19 05:16:31.071068;1771;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Robert Denton;l;p
+2025-08-19 05:17:25.781051;1772;São Paulo;Ana Oliveira;Fone de ouvido Sony;Gertie Nakamura;l;p
+2025-08-19 05:35:32.602277;1773;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Katherine Lopez;l;p
+2025-08-19 05:51:33.767409;1774;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Jeffrey Anderson;l;p
+2025-08-19 07:32:31.656862;1775;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Meredith Huynh;l;p
+2025-08-19 08:27:24.687526;1776;São Paulo;Ana Oliveira;Smartwatch Garmin;Ruby Jennings;l;p
+2025-08-19 10:46:30.322511;1777;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Sally Guy;l;p
+2025-08-20 04:36:30.184519;1778;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Addie Johnson;l;p
+2025-08-20 06:22:28.952637;1779;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Gloria Allison;l;p
+2025-08-20 06:33:24.722201;1780;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Jeff Bagger;l;p
+2025-08-20 07:51:31.097453;1781;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Mary Taylor;l;p
+2025-08-20 10:21:32.761546;1782;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Francis Campbell;l;p
+2025-08-20 10:42:27.764181;1783;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Juan Metzger;l;p
+2025-08-20 11:26:34.405215;1784;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Bertha Barnett;l;p
+2025-08-20 12:40:34.578710;1785;São Paulo;Ana Oliveira;Smartwatch Garmin;Michael Cleveland;l;p
+2025-08-20 12:47:33.368962;1786;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Gordon Davidson;l;p
+2025-08-20 13:59:27.929295;1787;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Jennifer Upchurch;l;p
+2025-08-21 06:00:24.498054;1788;Florianópolis;Tiago Lima;Tablet Apple Ipad;Christopher Nolen;l;p
+2025-08-21 06:28:33.290689;1789;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Wendy Ewing;l;p
+2025-08-21 08:49:29.032882;1790;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Beverly Mynatt;l;p
+2025-08-21 09:57:28.905209;1791;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Patrick Mckinnon;l;p
+2025-08-21 10:06:34.527163;1792;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;James Pearson;l;p
+2025-08-21 11:07:28.726507;1793;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Bethany Morgon;l;p
+2025-08-21 11:40:28.890893;1794;Florianópolis;Tiago Lima;Fone de ouvido Sony;Doris Naylor;l;p
+2025-08-21 12:13:27.931421;1795;São Paulo;Lucas Pereira;Fone de ouvido Sony;William Lambert;l;p
+2025-08-21 13:19:24.523839;1796;São Paulo;Ana Oliveira;Fone de ouvido Sony;Claudine Wallace;l;p
+2025-08-21 13:24:24.676356;1797;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Edith Weyer;l;p
+2025-08-22 08:20:31.211525;1798;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Helen Holvey;l;p
+2025-08-22 12:24:25.983628;1799;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Jodi Clark;l;p
+2025-08-22 12:53:25.875984;1800;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Steven Bernd;l;p
+2025-08-22 12:58:25.558029;1801;São Paulo;Lucas Pereira;Smartwatch Garmin;Jason Simens;l;p
+2025-08-23 04:07:34.612905;1802;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Maria Rappold;l;p
+2025-08-23 05:11:25.928100;1803;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Alma Colbert;l;p
+2025-08-23 05:33:32.407539;1804;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Helen Ortiz;l;p
+2025-08-23 05:49:26.236571;1805;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;William Greenberg;l;p
+2025-08-23 06:06:24.409560;1806;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Danielle Plumlee;l;p
+2025-08-23 08:00:34.280768;1807;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Christi Swartout;l;p
+2025-08-23 11:23:30.337608;1808;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Eddie Fullwood;l;p
+2025-08-23 12:49:23.471694;1809;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Silvia Reid;l;p
+2025-08-23 13:08:24.363390;1810;Florianópolis;Gabriela Santos;Tablet Apple Ipad;William Vidrio;l;p
+2025-08-23 14:19:32.335223;1811;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Janine Berkey;l;p
+2025-08-24 06:52:27.409538;1812;São Paulo;Ana Oliveira;Tablet Apple Ipad;Caren Krause;l;p
+2025-08-24 07:26:31.843205;1813;Florianópolis;Tiago Lima;Tablet Apple Ipad;Noel Williams;l;p
+2025-08-24 08:29:29.179020;1814;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Adrianne Johnson;l;p
+2025-08-24 09:36:25.144368;1815;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Glenda Booker;l;p
+2025-08-24 10:03:30.214077;1816;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Phillip Dibello;l;p
+2025-08-24 13:03:28.977906;1817;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;John Devenny;l;p
+2025-08-25 06:46:23.344901;1818;Florianópolis;Tiago Lima;Tablet Apple Ipad;Pam Sawicki;l;p
+2025-08-25 09:58:29.223444;1819;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Jeffery Wilson;l;p
+2025-08-25 10:59:24.940550;1820;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Willard Fox;l;p
+2025-08-25 11:14:32.010480;1821;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Joseph Garcia;l;p
+2025-08-25 12:41:31.898119;1822;Florianópolis;Gabriela Santos;Smartwatch Garmin;Charleen Tabor;l;p
+2025-08-25 13:09:28.197122;1823;Florianópolis;Gabriela Santos;Smartwatch Garmin;Henry Daffin;l;p
+2025-08-25 14:24:34.313446;1824;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Jody Machen;l;p
+2025-08-26 06:41:33.374576;1825;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Mark Wilder;l;p
+2025-08-26 06:44:24.514886;1826;São Paulo;Lucas Pereira;Smartwatch Garmin;Shana Harper;l;p
+2025-08-26 07:19:24.403366;1827;São Paulo;Ana Oliveira;Notebook Dell Inspiron;Muriel Roth;l;p
+2025-08-26 07:48:27.910992;1828;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Mary Clouthier;l;p
+2025-08-26 07:50:25.281644;1829;São Paulo;Ana Oliveira;Fone de ouvido Sony;Jennie He;l;p
+2025-08-26 09:30:29.168761;1830;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Dean Snow;l;p
+2025-08-26 10:37:30.873653;1831;São Paulo;Ana Oliveira;Fone de ouvido Sony;Bernadette Kaiser;l;p
+2025-08-26 10:38:31.654301;1832;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Vikki Collier;l;p
+2025-08-26 11:19:23.803251;1833;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Rose Foote;l;p
+2025-08-27 07:38:29.364261;1834;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Robert Eaves;l;p
+2025-08-27 08:26:26.219871;1835;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Donald Williamson;l;p
+2025-08-27 10:03:24.616988;1836;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Libby Spence;l;p
+2025-08-27 10:33:30.999742;1837;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Lance Strzelecki;l;p
+2025-08-28 08:12:30.426901;1838;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;John Stribley;l;p
+2025-08-28 09:07:32.846072;1839;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Alfred Smith;l;p
+2025-08-28 09:16:32.027937;1840;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Cordie Cecil;l;p
+2025-08-29 04:30:23.886278;1841;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Maxwell Jefferson;l;p
+2025-08-29 11:07:33.830215;1842;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Jacob Sheston;l;p
+2025-08-29 12:24:29.248257;1843;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Shelia Baker;l;p
+2025-08-30 09:07:23.034299;1844;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Stephen Hart;l;p
+2025-08-30 10:22:27.308702;1845;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Anita Krause;l;p
+2025-08-30 14:00:28.029055;1846;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Lisa Cruz;l;p
+2025-08-31 04:28:32.131726;1847;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Jerry Quintanilla;l;p
+2025-08-31 05:17:29.998136;1848;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Francisco Remillard;l;p
+2025-08-31 05:40:32.669729;1849;Florianópolis;Tiago Lima;Fone de ouvido Sony;Leora Hull;l;p
+2025-08-31 07:57:33.655192;1850;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Shirley Lupkes;l;p
+2025-08-31 09:26:26.506762;1851;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Mary Sardin;l;p
+2025-08-31 09:56:25.528204;1852;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Joel Cisneros;l;p
+2025-08-31 10:10:25.673892;1853;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Wanda Elliott;l;p
+2025-08-31 10:26:27.763854;1854;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Sabrina Roberts;l;p
+2025-08-31 11:18:30.232969;1855;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Ricardo Mullenbach;l;p
+2025-08-31 14:20:28.597411;1856;Florianópolis;Gabriela Santos;Smartwatch Garmin;Lori Millar;l;p
+2025-09-01 04:44:32.223774;1857;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;Nicole Thomas;l;p
+2025-09-01 12:19:33.487659;1858;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Logan Fuentes;l;p
+2025-09-02 04:00:23.599256;1859;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Sherman Mendoza;l;p
+2025-09-02 05:27:31.678023;1860;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Christine Adams;l;p
+2025-09-02 06:43:30.011926;1861;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Oscar Moser;l;p
+2025-09-02 09:07:25.523794;1862;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Dina Pare;l;p
+2025-09-02 11:32:33.947830;1863;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Carrie Hill;l;p
+2025-09-02 12:07:31.031785;1864;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Nancy Ganey;l;p
+2025-09-03 07:45:27.513194;1865;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Tom Krone;l;p
+2025-09-03 10:00:29.026105;1866;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Kathryn Barry;l;p
+2025-09-03 11:05:27.672654;1867;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Julianne Jones;l;p
+2025-09-03 11:43:29.116743;1868;Belo Horizonte;Fernanda Costa;Tablet Apple Ipad;Christina Heflin;l;p
+2025-09-03 13:35:27.224662;1869;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Corrin Parkhurst;l;p
+2025-09-04 06:44:34.278064;1870;Rio de Janeiro;Pedro Souza;Notebook Dell Inspiron;Harry Tang;l;p
+2025-09-04 07:21:24.675794;1871;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Jesus Jones;l;p
+2025-09-04 07:35:26.285309;1872;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Alfreda Pursley;l;p
+2025-09-04 10:17:23.639334;1873;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Benjamin Shelly;l;p
+2025-09-04 11:28:28.035885;1874;São Paulo;Ana Oliveira;Tablet Apple Ipad;Don Castillo;l;p
+2025-09-04 14:15:26.298586;1875;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Marie Henry;l;p
+2025-09-05 04:05:26.260401;1876;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Michael Davis;l;p
+2025-09-05 04:28:32.273556;1877;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Kim Geary;l;p
+2025-09-05 06:14:30.791721;1878;São Paulo;Ana Oliveira;Smartwatch Garmin;Sarah Krouse;l;p
+2025-09-05 13:44:25.614343;1879;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Ronnie Naone;l;p
+2025-09-05 14:20:29.050473;1880;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Jacob Reed;l;p
+2025-09-06 06:46:26.213758;1881;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Roy Koziol;l;p
+2025-09-06 06:53:23.718235;1882;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Dominick Baker;l;p
+2025-09-06 07:03:23.653057;1883;Porto Alegre;Mariana Gomes;Smartwatch Garmin;Sherry Adler;l;p
+2025-09-06 08:54:27.310923;1884;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Alexa Sayler;l;p
+2025-09-06 11:00:27.258237;1885;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Tony Tackitt;l;p
+2025-09-06 14:07:34.525111;1886;São Paulo;Lucas Pereira;Fone de ouvido Sony;Walter Morin;l;p
+2025-09-07 04:50:26.064551;1887;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;John Washington;l;p
+2025-09-08 04:16:25.228811;1888;Belo Horizonte;Fernanda Costa;Smartphone Samsung Galaxy;Anna Negrete;l;p
+2025-09-08 04:49:28.051890;1889;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Vickie Owen;l;p
+2025-09-08 04:54:34.219476;1890;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Franklin Moss;l;p
+2025-09-08 05:17:27.609258;1891;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;John Garza;l;p
+2025-09-08 07:55:27.335914;1892;São Paulo;Ana Oliveira;Smartwatch Garmin;Christopher Eschen;l;p
+2025-09-08 12:50:23.805086;1893;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Megan Lamb;l;p
+2025-09-08 13:50:31.310842;1894;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Coy Austin;l;p
+2025-09-09 10:05:31.900817;1895;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Abdul Manser;l;p
+2025-09-09 10:46:30.426720;1896;São Paulo;Ana Oliveira;Notebook Dell Inspiron;William Davis;l;p
+2025-09-09 11:15:32.109746;1897;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Sarah Bailey;l;p
+2025-09-09 12:25:34.467331;1898;São Paulo;Ana Oliveira;Tablet Apple Ipad;Jeffery Federick;l;p
+2025-09-10 03:30:32.651401;1899;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Emil Mccorry;l;p
+2025-09-10 04:23:25.907612;1900;São Paulo;Ana Oliveira;Smartwatch Garmin;Douglas Creagh;l;p
+2025-09-10 06:28:31.070890;1901;Florianópolis;Tiago Lima;Smartwatch Garmin;Lawrence Hughes;l;p
+2025-09-10 08:58:27.223132;1902;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Shanice Collins;l;p
+2025-09-10 10:39:32.341978;1903;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;William Jorge;l;p
+2025-09-10 13:17:27.647212;1904;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Gus Ogden;l;p
+2025-09-11 04:51:32.088568;1905;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Carlene Sharp;l;p
+2025-09-11 07:52:23.868424;1906;Florianópolis;Tiago Lima;Fone de ouvido Sony;Alberto Jimenez;l;p
+2025-09-11 11:51:26.395295;1907;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Brian Boyer;l;p
+2025-09-11 13:35:31.488295;1908;Florianópolis;Tiago Lima;Smartwatch Garmin;James Palladino;l;p
+2025-09-12 03:54:29.997254;1909;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Virginia Butcher;l;p
+2025-09-12 04:49:32.034556;1910;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Ida Stelzer;l;p
+2025-09-12 06:51:27.617608;1911;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Glenn Barkley;l;p
+2025-09-12 11:53:24.000750;1912;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Rafael Latimore;l;p
+2025-09-12 13:48:23.756860;1913;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Leonard Goode;l;p
+2025-09-13 03:29:30.190513;1914;São Paulo;Lucas Pereira;Smartwatch Garmin;Jason White;l;p
+2025-09-13 03:59:29.599792;1915;São Paulo;Ana Oliveira;Smartwatch Garmin;Edward Wright;l;p
+2025-09-13 04:48:32.570423;1916;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Eli Sood;l;p
+2025-09-13 05:01:34.556460;1917;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Douglas Guthrie;l;p
+2025-09-13 06:11:34.579663;1918;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Cassie Hiatt;l;p
+2025-09-13 07:10:26.223229;1919;São Paulo;Ana Oliveira;Tablet Apple Ipad;Quinton Stepp;l;p
+2025-09-14 04:35:29.220693;1920;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;James Stiles;l;p
+2025-09-14 05:30:30.388644;1921;São Paulo;Lucas Pereira;Smartwatch Garmin;Mary Naugle;l;p
+2025-09-14 06:49:27.997819;1922;Belo Horizonte;Carlos Silva;Fone de ouvido Sony;Jeanne Bell;l;p
+2025-09-14 07:31:34.495550;1923;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Elias Giacchino;l;p
+2025-09-14 08:13:27.522770;1924;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Dean Mapes;l;p
+2025-09-14 09:47:32.407391;1925;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Jeremy Williams;l;p
+2025-09-14 11:34:28.545349;1926;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Sadie Walker;l;p
+2025-09-14 11:56:27.052725;1927;Rio de Janeiro;Juliana Almeida;Notebook Dell Inspiron;John Heckstall;l;p
+2025-09-14 12:40:34.088933;1928;São Paulo;Lucas Pereira;Fone de ouvido Sony;Jennifer Light;l;p
+2025-09-14 13:30:27.978623;1929;Florianópolis;Gabriela Santos;Smartwatch Garmin;Leonardo Moore;l;p
+2025-09-15 03:42:32.275874;1930;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Todd Vargas;l;p
+2025-09-16 05:21:31.418889;1931;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Kenneth Mcleod;l;p
+2025-09-16 06:24:32.494358;1932;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Thomas Brewer;l;p
+2025-09-16 06:42:23.680811;1933;Rio de Janeiro;Juliana Almeida;Smartwatch Garmin;Scott Yap;l;p
+2025-09-16 07:16:29.119374;1934;Belo Horizonte;Fernanda Costa;Notebook Dell Inspiron;Shirley Creech;l;p
+2025-09-16 10:46:29.849562;1935;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Etta Popp;l;p
+2025-09-16 13:22:29.262399;1936;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Leo Brinlee;l;p
+2025-09-16 13:26:27.739493;1937;Belo Horizonte;Carlos Silva;Tablet Apple Ipad;Charles Capaldi;l;p
+2025-09-17 03:35:33.358452;1938;Florianópolis;Gabriela Santos;Notebook Dell Inspiron;Holly Williams;l;p
+2025-09-17 09:21:33.415108;1939;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Patrick Rouse;l;p
+2025-09-17 10:57:27.525903;1940;São Paulo;Ana Oliveira;Smartwatch Garmin;Charlie Jackson;l;p
+2025-09-17 14:12:34.309305;1941;Florianópolis;Tiago Lima;Smartphone Samsung Galaxy;Elizabeth Burleson;l;p
+2025-09-18 04:36:27.829899;1942;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Phyllis Kochel;l;p
+2025-09-18 08:23:32.175008;1943;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Marie Lively;l;p
+2025-09-18 10:18:28.820642;1944;São Paulo;Ana Oliveira;Smartwatch Garmin;Lawrence Drew;l;p
+2025-09-18 12:35:27.372879;1945;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Ann Torris;l;p
+2025-09-19 09:43:31.528586;1946;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Eduardo Marrs;l;p
+2025-09-19 09:52:26.053273;1947;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Glen Paschal;l;p
+2025-09-19 11:24:26.095975;1948;Florianópolis;Tiago Lima;Tablet Apple Ipad;Alfred Robinson;l;p
+2025-09-19 11:39:33.376709;1949;Florianópolis;Gabriela Santos;Smartwatch Garmin;Tina Krapp;l;p
+2025-09-19 13:50:34.666042;1950;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Royce Gray;l;p
+2025-09-19 14:00:33.584489;1951;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Teresa Semple;l;p
+2025-09-20 06:36:33.359898;1952;São Paulo;Lucas Pereira;Fone de ouvido Sony;Susan Crisp;l;p
+2025-09-20 08:26:29.616737;1953;São Paulo;Lucas Pereira;Fone de ouvido Sony;Rebecca Lejeune;l;p
+2025-09-21 04:39:31.981607;1954;Florianópolis;Tiago Lima;Notebook Dell Inspiron;Mark Gralak;l;p
+2025-09-21 05:03:29.305298;1955;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Marion Nekola;l;p
+2025-09-21 06:38:33.754773;1956;Porto Alegre;Roberto Ferreira;Tablet Apple Ipad;Tommie Smith;l;p
+2025-09-21 07:06:33.573015;1957;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Justin Elwood;l;p
+2025-09-21 08:06:32.592022;1958;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Mark Parsons;l;p
+2025-09-21 08:53:33.376243;1959;Belo Horizonte;Carlos Silva;Smartwatch Garmin;Mary Farrell;l;p
+2025-09-21 09:02:34.494391;1960;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Jayne Ayers;l;p
+2025-09-21 09:25:27.631438;1961;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Ruth March;l;p
+2025-09-21 11:22:29.996044;1962;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Joe Long;l;p
+2025-09-21 11:55:25.374392;1963;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;David Morris;l;p
+2025-09-21 12:01:31.305178;1964;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Kelli Bott;l;p
+2025-09-22 06:10:33.561924;1965;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Theresa Strong;l;p
+2025-09-22 08:42:25.980936;1966;Florianópolis;Gabriela Santos;Smartphone Samsung Galaxy;Jennifer Meadows;l;p
+2025-09-22 09:58:24.500769;1967;Rio de Janeiro;Pedro Souza;Smartphone Samsung Galaxy;Thomas Kelly;l;p
+2025-09-22 13:08:27.979019;1968;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Russell Oconnell;l;p
+2025-09-23 07:47:34.597709;1969;Belo Horizonte;Fernanda Costa;Fone de ouvido Sony;Josephine Shirley;l;p
+2025-09-23 11:27:27.981104;1970;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;George Figueredo;l;p
+2025-09-23 11:29:28.453018;1971;São Paulo;Lucas Pereira;Tablet Apple Ipad;Deborah Gentry;l;p
+2025-09-23 12:27:26.607694;1972;Porto Alegre;Mariana Gomes;Fone de ouvido Sony;Eric Harmon;l;p
+2025-09-23 13:06:24.263445;1973;Rio de Janeiro;Juliana Almeida;Smartphone Samsung Galaxy;Dennis Jenkins;l;p
+2025-09-23 14:19:33.295533;1974;São Paulo;Ana Oliveira;Smartphone Samsung Galaxy;Cameron Fiume;l;p
+2025-09-24 04:21:27.104695;1975;Rio de Janeiro;Pedro Souza;Fone de ouvido Sony;Brandon Koenig;l;p
+2025-09-24 08:50:31.093340;1976;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Diane Coffey;l;p
+2025-09-25 05:48:24.023769;1977;São Paulo;Ana Oliveira;Tablet Apple Ipad;Gregory Sykes;l;p
+2025-09-25 06:52:23.474014;1978;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Lonnie Thompson;l;p
+2025-09-25 07:19:30.016712;1979;São Paulo;Lucas Pereira;Notebook Dell Inspiron;Carmen Persons;l;p
+2025-09-25 09:55:24.524452;1980;Florianópolis;Tiago Lima;Fone de ouvido Sony;Maria Vandeusen;l;p
+2025-09-25 13:09:34.582266;1981;Rio de Janeiro;Juliana Almeida;Tablet Apple Ipad;Mark Juares;l;p
+2025-09-25 13:19:27.170593;1982;Florianópolis;Gabriela Santos;Fone de ouvido Sony;Ian Laird;l;p
+2025-09-26 06:55:26.925275;1983;Belo Horizonte;Carlos Silva;Smartphone Samsung Galaxy;Robert Rauh;l;p
+2025-09-26 11:51:32.408261;1984;Belo Horizonte;Fernanda Costa;Smartwatch Garmin;Luis Bialczyk;l;p
+2025-09-26 13:52:31.380978;1985;Porto Alegre;Mariana Gomes;Notebook Dell Inspiron;Ricky Reeder;l;p
+2025-09-26 14:16:26.241780;1986;Rio de Janeiro;Pedro Souza;Smartwatch Garmin;Vanessa Ramirez;l;p
+2025-09-27 06:42:34.132223;1987;Belo Horizonte;Carlos Silva;Notebook Dell Inspiron;Evelyn Rivera;l;p
+2025-09-27 07:12:33.515601;1988;Porto Alegre;Mariana Gomes;Smartphone Samsung Galaxy;Jeffrey Battaglia;l;p
+2025-09-27 09:59:27.631154;1989;Rio de Janeiro;Juliana Almeida;Fone de ouvido Sony;Lydia Baker;l;p
+2025-09-27 10:07:30.961466;1990;Porto Alegre;Roberto Ferreira;Notebook Dell Inspiron;Carter Whitt;l;p
+2025-09-27 10:56:28.107745;1991;São Paulo;Ana Oliveira;Fone de ouvido Sony;Karen Friedman;l;p
+2025-09-27 14:24:26.261486;1992;Porto Alegre;Roberto Ferreira;Smartphone Samsung Galaxy;Charles Smith;l;p
+2025-09-27 14:26:27.326326;1993;Porto Alegre;Mariana Gomes;Tablet Apple Ipad;Cynthia Paul;l;p
+2025-09-28 04:25:30.209662;1994;São Paulo;Lucas Pereira;Smartphone Samsung Galaxy;Paul Donnell;l;p
+2025-09-28 07:13:25.152328;1995;Florianópolis;Tiago Lima;Fone de ouvido Sony;Faith Myers;l;p
+2025-09-28 11:00:33.766099;1996;Porto Alegre;Roberto Ferreira;Fone de ouvido Sony;Jill Small;l;p
+2025-09-28 12:25:27.407056;1997;Florianópolis;Gabriela Santos;Tablet Apple Ipad;Maurice Martin;l;p
+2025-09-28 13:36:24.521206;1998;Porto Alegre;Roberto Ferreira;Smartwatch Garmin;Chad Lewis;l;p
+2025-09-28 14:21:27.207462;1999;Rio de Janeiro;Pedro Souza;Tablet Apple Ipad;Joseph Curtis;l;p
