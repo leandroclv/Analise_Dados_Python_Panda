@@ -1,7 +1,7 @@
 import sqlite3
 
 #Conectando no BD
-conexao = sqlite3.connect('titulo.bd')
+conexao = sqlite3.connect('titulo.db')
 cursor = conexao.cursor()
 
 #Leitura de dados
