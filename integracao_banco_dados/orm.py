@@ -38,7 +38,7 @@ def atualizar_filme(id, nome=None, ano=None, nota=None):
             filme.ano = ano
         if nota is not None:
             filme.nota = nota
-        session.commit()
+    session.commit()
     session.close()
     
 #atualiza_filme(1, 'Homem Aranha', 2016, 9.0)
